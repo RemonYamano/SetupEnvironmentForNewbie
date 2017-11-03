@@ -36,5 +36,5 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 |    Windows    |   Mac    | iOS  | Android |
 | :-----------: | :------: | :--: | :-----: |
 |     Free      |   Free   | Free |  Free   |
-| [Online](    | centered | $12  |         |
+|   [Online](https://slack.com/downloads/windows)   | centered | $12  |         |
 | zebra stripes | are neat |  $1  |         |
