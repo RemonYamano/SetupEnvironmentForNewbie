@@ -10,7 +10,7 @@
 * [Software - Mail](#software-mail)
   * [Thunderbird](#thunderbird)
 * [Software - Office](#software-office)
-  * [Word - Excel - OneNote](#word-excel-onenote)
+  * [Standard(Word - Excel - PowerPoint - OneNote - Outlook)](#office-standard)
   * [Typora](#typora)
 * [Software - Lập trình](#software-develop)
   * [Xcode](#xcode)
@@ -182,11 +182,12 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 **Tips and tricks**
 - **Mac**: Để nhận được thông báo của sự kiện, vào **Thunderbird** → **Preferences** → **Calendar** → **Reminders** → bật **Default Setting For Events**.
-  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_12.png" />
+  ​
+  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_12.png" width="600"/>
 
 # Software - Office<a name="software-office"></a>
 
-## [Word - Excel - OneNote](https://www.microsoft.com/en-us/store/b/office)<a name="word-excel-onenote"></a>
+## [Standard(Word - Excel - PowerPoint - OneNote - Outlook)](https://www.microsoft.com/en-us/store/b/office)<a name="office-standard"></a>
 
 **Mục đích**
 - Soạn thảo văn bản.
