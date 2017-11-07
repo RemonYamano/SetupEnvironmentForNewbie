@@ -30,7 +30,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 ## Slack<a name="slack"></a>
 
-[![Slack](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/icon_slack.png)](https://slack.com/)
+[![Slack](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/icon_slack.png)](https://slack.com/)
 
 **Mục đích**
 - Trao đổi, báo cáo công việc.
@@ -40,10 +40,16 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 |                 Windows                  |                   Mac                    |                   iOS                    |                 Android                  |
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
 |                   Free                   |                   Free                   |                   Free                   |                   Free                   |
-| [Online](https://slack.com/downloads/windows) | [Online](https://itunes.apple.com/us/app/slack/id803453959) | [Online](https://play.google.com/store/apps/details?id=com.Slack) | [Online](https://itunes.apple.com/us/app/slack/id618783545) |
+| [Installer](https://slack.com/downloads/windows) | [Mac Store](https://itunes.apple.com/us/app/slack/id803453959) | [Google Play](https://play.google.com/store/apps/details?id=com.Slack) | [App Store](https://itunes.apple.com/us/app/slack/id618783545) |
 
 **Setup**
-(updating)
+
+- Nhập OnetechAsia vào khung workspace:
+
+![Slack](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_00.PNG)
+
+- Nhập email Onetech (\*\*\*@onetech.vn):
+- ​
 
 **Notes**
 (updating)
