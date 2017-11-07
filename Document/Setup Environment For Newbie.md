@@ -38,7 +38,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 - Chat nội bộ.
 
 **Download**
-|                 Windows                  |                   Mac                    |                   iOS                    |                 Android                  |
+|                 Windows                  |                   Mac                    |                 Android                  |                   iOS                    |
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
 |                   Free                   |                   Free                   |                   Free                   |                   Free                   |
 | [Installer](https://slack.com/downloads/windows) | [Mac Store](https://itunes.apple.com/us/app/slack/id803453959) | [Google Play](https://play.google.com/store/apps/details?id=com.Slack) | [App Store](https://itunes.apple.com/us/app/slack/id618783545) |
@@ -73,26 +73,25 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 **Download**
 
-|                 Windows                  |                   Mac                    |                   iOS                    |                 Android                  |
+|                 Windows                  |                   Mac                    |                 Android                  |                   iOS                    |
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
 |                   Free                   |                   Free                   |                   Free                   |                   Free                   |
 | [Installer](https://www.skype.com/en/download-skype/skype-for-computer/) | [Installer](https://www.skype.com/en/download-skype/skype-for-computer/) | [Google Play](https://play.google.com/store/apps/details?id=com.skype.raider) | [App Store](https://itunes.apple.com/us/app/skype-for-iphone/id304878510) |
 
-**Setup**
-(updating)
-
-**Notes**
-(updating)
-
 **Tips and tricks**
-(updating)
+
+- Gõ /help trong khung chat để hiển thị command.
+- Để gõ chữ đậm thêm dấu \* trước và sau text: \*bold\* → **bold**
+- Để gõ chữ nghiêng thêm dấu \_ trước và sau text: \_italic\_ → *italic*
+- Để gõ chữ gạch ngang thêm dấu \~ trước và sau text: \~italic\~ → ~~strikethrough~~
+- Để mute group chat, gõ **/alertsoff** trong khung chat, để unmute gõ **/alertson**
 
 # Software - Mail<a name="software-mail"></a>
 
 ## [Thunderbird](https://www.mozilla.org/en-US/thunderbird/)<a name="thunderbird"></a>
 
 **Mục đích**
-- Nhận thông tin cá nhân, bảng lương hàng tháng
+- Nhận thông tin cá nhân, bảng lương hàng tháng.
 - Nhận events.
 - Calendar.
 
@@ -100,12 +99,12 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 (updating)
 
-|                 Windows                  |                   Mac                    |                   iOS                    |                 Android                  |
-| :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
-|                   Free                   |                   Free                   |                   Free                   |                   Free                   |
-| [Updating](https://www.mozilla.org/en-US/thunderbird/) | [Online](https://www.mozilla.org/en-US/thunderbird/) | [Updating](https://play.google.com/store/apps/details?id=com.Slack&hl=en) | [Updating](https://itunes.apple.com/us/app/slack/id618783545?mt=8) |
+|                 Windows                  |                   Mac                    |                 Android                  |      iOS      |
+| :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :-----------: |
+|                   Free                   |                   Free                   |                   Free                   | Not available |
+| [Installer](https://www.mozilla.org/en-US/thunderbird) | [Installer](https://www.mozilla.org/en-US/thunderbird/) | [Blue Mail](https://play.google.com/store/apps/details?id=me.bluemail.mail) |               |
 
-**Setup**
+**Setup (Windows & Mac)**
 (updating)
 
 **Notes**
