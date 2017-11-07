@@ -186,9 +186,28 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 **Setup (Mac)**
 
-- Cài đặt file **Microsoft_Office_2016_15.37.17081500_Installer** trước.
+- Cài đặt file setup **Microsoft_Office_2016_15.37.17081500_Installer**.
+- Sau khi cài đặt xong chạy file **Microsoft_Office_2016_VL_Serializer** để crack.
 - Chú ý trong lúc cài có thể tuỳ chọn phần mềm nào cần cài đặt.
-- 
+- Chọn **Customize**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/office_standard/office_00.png" width="600">
+
+- Chọn phần mềm muốn cài đặt, sau đó chọn **Install**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/office_standard/office_01.png" width="600">
+
+**Setup (Windows)**
+
+- Cài đặt file setup **ProfessionalPlus**.
+- Nhập key **4DRT4-F2M76-3WDJB-XGTRR-QF8KH**
+- Sau khi cài đặt xong chạy file **Office 2010 Toolkit** để crack.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/office_standard/office_00.png" width="600">
+
+- Chọn phần mềm muốn cài đặt, sau đó chọn **Install**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/office_standard/office_01.png" width="600">
 
 **Notes**
 
