@@ -44,12 +44,17 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 **Setup**
 
-- Nhập OnetechAsia vào khung workspace:
+- Nhập **OnetechAsia** vào khung workspace:
 
 ![Slack](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_00.PNG)
 
-- Nhập email Onetech (\*\*\*@onetech.vn):
-- ​
+- Nhập email Onetech (**\*\*\*@onetech.vn**). Trường hợp chưa có mail liên hệ Mr.Bảo.
+
+![Slack](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_01.PNG)
+
+- Nhập password:
+
+![Slack](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_02.PNG)
 
 **Notes**
 (updating)
