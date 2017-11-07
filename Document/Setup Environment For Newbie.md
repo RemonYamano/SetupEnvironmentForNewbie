@@ -202,19 +202,13 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 - Cài đặt file setup **ProfessionalPlus**.
 - Nhập key **4DRT4-F2M76-3WDJB-XGTRR-QF8KH**
 - Sau khi cài đặt xong chạy file **Office 2010 Toolkit** để crack.
+- Chọn **EZ-Activator**. Lưu ý trong quá trình cài đặt có thể yêu cầu cài đặt thêm .NET 3.5 nếu máy chưa có sẵn.
 
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/office_standard/office_00.png" width="600">
-
-- Chọn phần mềm muốn cài đặt, sau đó chọn **Install**.
-
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/office_standard/office_01.png" width="600">
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/office_standard/office_02.png">
 
 **Notes**
 
 - **OneNote** rất phù hợp để lưu trữ note vì dễ sử dụng và synchronization.
-
-**Tips and tricks**
-(updating)
 
 ## [Typora](https://www.microsoft.com/en-us/store/b/office)<a name="word-excel-onenote"></a>
 
