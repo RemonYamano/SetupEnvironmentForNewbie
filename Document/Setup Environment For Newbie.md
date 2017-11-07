@@ -105,7 +105,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 | [Installer](https://www.mozilla.org/en-US/thunderbird) | [Installer](https://www.mozilla.org/en-US/thunderbird/) | [Blue Mail](https://play.google.com/store/apps/details?id=me.bluemail.mail) |               |
 
 **Setup (Windows & Mac)**
-(updating)
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_00.png" height="500"/>
 
 **Notes**
 (updating)
