@@ -46,21 +46,23 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 - Nhập **OnetechAsia** vào khung workspace:
 
-![Slack](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_00.PNG)
+![Slack](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_00.png)
 
 - Nhập email Onetech (**\*\*\*@onetech.vn**). Trường hợp chưa có mail liên hệ Mr.Bảo.
 
-![Slack](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_01.PNG)
+![Slack](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_01.png)
 
 - Nhập password:
 
-![Slack](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_02.PNG)
+![Slack](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_02.png)
 
 **Notes**
-(updating)
 
 **Tips and tricks**
-(updating)
+
+- Để thêm một workspace, click vào account ở góc trên bên trái, sau đó chọn **Sign in to another workspace**
+
+![Slack](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_03.png)
 
 ## [Skype](https://slack.com/)<a name="skype"></a>
 
