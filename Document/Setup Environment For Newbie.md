@@ -47,21 +47,21 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 - Nhập **OnetechAsia** vào khung workspace.
 
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_00.png" height="500"/>
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_00.png" width="600"/>
 
 - Nhập email Onetech (**\*\*\*@onetech.vn**). Trường hợp chưa có mail liên hệ Mr.Bảo.
 
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_01.png" height="500"/>
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_01.png" width="600"/>
 
 - Nhập password.
 
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_02.png" height="500"/>
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_02.png" width="600"/>
 
 **Tips and tricks**
 
 - Để thêm một workspace, click vào account ở góc trên bên trái, sau đó chọn **Sign in to another workspace**.
 
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_03.png" height="500"/>
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_03.png"/>
 
 ## Skype<a name="skype"></a>
 
@@ -109,31 +109,80 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 **Setup (Windows & Mac)**
 
 - Chọn **Email** dưới phần **Create a new account**.
-  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_00.png" height="500"/>
+  ​
+  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_00.png" width="600"/>
+
+  ​
 
 - Chọn **Skip this and use my existing email**.
-  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_01.png" height="500"/>
+  ​
+  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_01.png" width="600"/>
+
+  ​
 
 - Nhập email Onetech (**\*\*\*@onetech.vn**) và mật khẩu, tên điền vào tuỳ ý. Trường hợp chưa có mail liên hệ Mr.Bảo. Sau đó chọn **Continue**.
-  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_02.png" height="500"/>
+  ​
+  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_02.png" width="600"/>
+
+  ​
 
 - Chọn **Manual config**.
-  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_03.png" height="500"/>
+  ​
+  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_03.png" width="600"/>
+
+  ​
 
 - Phần **Server hostname** nhập vào **mail.onetech.vn**. Sau đó chọn **Re-test**.
-  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_04.png" height="500"/>
+  ​
+  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_04.png"/>
+
+  ​
 
 - Chọn **Done**.
-  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_05.png" height="500"/>
+  ​
+  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_05.png" />
+
+  ​
 
 - Chọn **I understand the risks**. Sau đó chọn **Done**.
-  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_06.png" height="500"/>
+  ​
 
-**Notes**
-(updating)
+  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_06.png"/>
+
+  ​
+  **Setup (Android)**
+
+- Chọn **ADD OTHER ACCOUNT**.
+  ​
+  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_07.jpg" width="300"/>
+
+  ​
+
+- Chọn **Other Email**.
+  ​
+  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_08.jpg" width="300"/>
+
+  ​
+
+- Nhập email Onetech (**\*\*\*@onetech.vn**) và mật khẩu. Trường hợp chưa có mail liên hệ Mr.Bảo. Sau đó chọn **NEXT**.
+  ​
+  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_09.jpg" width="300"/>
+
+  ​
+
+- Phần **Name** và **Description** điền tuỳ ý. Sau đó chọn **DONE**.
+  ​
+  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_10.jpg" width="300"/>
+
+  ​
+
+- Chọn **Done**.
+  ​
+  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_11.jpg" width="300"/>
 
 **Tips and tricks**
-(updating)
+- **Mac**: Để nhận được thông báo của sự kiện, vào **Thunderbird** → **Preferences** → **Calendar** → **Reminders** → bật **Default Setting For Events**.
+  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_12.png" />
 
 # Software - Office<a name="software-office"></a>
 
