@@ -21,6 +21,7 @@
 * [Software - Hình ảnh](#software-image)
   * [Photoshop](#photoshop)
   * [Illustrator](#illustrator)
+* [Những người bạn nên biết](#mvp-agent)
 
 # Mục đích chung<a name="muc-dich"></a>
 
@@ -46,23 +47,21 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 - Nhập **OnetechAsia** vào khung workspace:
 
-![Slack](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_00.png)
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_00.png" height="500"/>
 
 - Nhập email Onetech (**\*\*\*@onetech.vn**). Trường hợp chưa có mail liên hệ Mr.Bảo.
 
-![Slack](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_01.png)
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_01.png" height="500"/>
 
 - Nhập password:
 
-![Slack](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_02.png)
-
-**Notes**
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_02.png" height="500"/>
 
 **Tips and tricks**
 
 - Để thêm một workspace, click vào account ở góc trên bên trái, sau đó chọn **Sign in to another workspace**
 
-![Slack](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_03.png)
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_03.png" height="500"/>
 
 ## [Skype](https://slack.com/)<a name="skype"></a>
 
@@ -71,8 +70,6 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 - Chat nội bộ.
 
 **Download**
-
-(updating)
 
 |                 Windows                  |                   Mac                    |                   iOS                    |                 Android                  |
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
