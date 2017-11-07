@@ -63,7 +63,9 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/slack/slack_03.png" height="500"/>
 
-## [Skype](https://slack.com/)<a name="skype"></a>
+## Skype<a name="skype"></a>
+
+[![Skype](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/skype/icon_skype.png)](https://www.skype.com/en/)
 
 **Mục đích**
 - Chém gió, communication, thông báo trong công ty.
@@ -74,7 +76,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 |                 Windows                  |                   Mac                    |                   iOS                    |                 Android                  |
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
 |                   Free                   |                   Free                   |                   Free                   |                   Free                   |
-| [Updating](https://slack.com/downloads/windows) | [Online](https://www.skype.com/en/download-skype/skype-for-computer/) | [Online](https://play.google.com/store/apps/details?id=com.skype.raider) | [Online](https://itunes.apple.com/us/app/skype-for-iphone/id304878510) |
+| [Installer](https://www.skype.com/en/download-skype/skype-for-computer/) | [Installer](https://www.skype.com/en/download-skype/skype-for-computer/) | [Google Play](https://play.google.com/store/apps/details?id=com.skype.raider) | [App Store](https://itunes.apple.com/us/app/skype-for-iphone/id304878510) |
 
 **Setup**
 (updating)
