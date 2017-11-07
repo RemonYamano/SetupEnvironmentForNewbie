@@ -28,7 +28,9 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 # Software - Giao tiếp<a name="software-communication"></a>
 
-## [Slack](https://slack.com/)<a name="slack"></a>
+## Slack<a name="slack"></a>
+
+[![Slack](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/icon_slack.png)](https://slack.com/)
 
 **Mục đích**
 - Trao đổi, báo cáo công việc.
