@@ -1,4 +1,4 @@
-[![Onetech Asia Company](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/logo%20onetech.png)](http://onetech.vn/)
+[![Onetech Asia Company](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/logo_onetech.png)](http://onetech.vn/)
 
 # Mục lục
 
