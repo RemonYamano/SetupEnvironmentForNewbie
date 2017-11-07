@@ -88,7 +88,9 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 # Software - Mail<a name="software-mail"></a>
 
-## [Thunderbird](https://www.mozilla.org/en-US/thunderbird/)<a name="thunderbird"></a>
+## Thunderbird<a name="thunderbird"></a>
+
+[![Thunderbird](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/icon_thunder_bird.png)](https://www.mozilla.org/en-US/thunderbird/)
 
 **Mục đích**
 - Nhận thông tin cá nhân, bảng lương hàng tháng.
