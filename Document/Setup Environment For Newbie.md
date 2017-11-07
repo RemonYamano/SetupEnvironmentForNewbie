@@ -99,8 +99,6 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 **Download**
 
-(updating)
-
 |                 Windows                  |                   Mac                    |                 Android                  |      iOS      |
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :-----------: |
 |                   Free                   |                   Free                   |                   Free                   | Not available |
@@ -109,101 +107,88 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 **Setup (Windows & Mac)**
 
 - Chọn **Email** dưới phần **Create a new account**.
-  ​
-  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_00.png" width="600"/>
 
-  ​
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_00.png" width="600"/>
 
 - Chọn **Skip this and use my existing email**.
-  ​
-  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_01.png" width="600"/>
 
-  ​
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_01.png" width="600"/>
 
 - Nhập email Onetech (**\*\*\*@onetech.vn**) và mật khẩu, tên điền vào tuỳ ý. Trường hợp chưa có mail liên hệ Mr.Bảo. Sau đó chọn **Continue**.
-  ​
-  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_02.png" width="600"/>
 
-  ​
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_02.png" width="600"/>
 
 - Chọn **Manual config**.
-  ​
-  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_03.png" width="600"/>
 
-  ​
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_03.png" width="600"/>
 
 - Phần **Server hostname** nhập vào **mail.onetech.vn**. Sau đó chọn **Re-test**.
-  ​
-  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_04.png"/>
 
-  ​
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_04.png" width="600"/>
 
 - Chọn **Done**.
-  ​
-  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_05.png" />
 
-  ​
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_05.png" width="600"/>
 
 - Chọn **I understand the risks**. Sau đó chọn **Done**.
-  ​
 
-  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_06.png"/>
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_06.png" width="600"/>
 
-  ​
   **Setup (Android)**
 
 - Chọn **ADD OTHER ACCOUNT**.
-  ​
-  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_07.jpg" width="300"/>
 
-  ​
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_07.jpg" width="300"/>
 
 - Chọn **Other Email**.
-  ​
-  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_08.jpg" width="300"/>
 
-  ​
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_08.jpg" width="300"/>
 
 - Nhập email Onetech (**\*\*\*@onetech.vn**) và mật khẩu. Trường hợp chưa có mail liên hệ Mr.Bảo. Sau đó chọn **NEXT**.
-  ​
-  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_09.jpg" width="300"/>
 
-  ​
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_09.jpg" width="300"/>
 
 - Phần **Name** và **Description** điền tuỳ ý. Sau đó chọn **DONE**.
-  ​
-  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_10.jpg" width="300"/>
 
-  ​
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_10.jpg" width="300"/>
 
 - Chọn **Done**.
-  ​
-  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_11.jpg" width="300"/>
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_11.jpg" width="300"/>
 
 **Tips and tricks**
 - **Mac**: Để nhận được thông báo của sự kiện, vào **Thunderbird** → **Preferences** → **Calendar** → **Reminders** → bật **Default Setting For Events**.
-  ​
-  <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_12.png" width="600"/>
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_12.png" width="600"/>
 
 # Software - Office<a name="software-office"></a>
 
-## [Standard(Word - Excel - PowerPoint - OneNote - Outlook)](https://www.microsoft.com/en-us/store/b/office)<a name="office-standard"></a>
+## Standard(Word - Excel - PowerPoint - OneNote - Outlook)<a name="office-standard"></a>
+
+[![Microsoft Office](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/office_standard/icon_office.png)](https://www.microsoft.com/en-us/store/b/office)
 
 **Mục đích**
 - Soạn thảo văn bản.
+- Presentation.
 - Note.
 
 **Download**
 
-(updating)
-
 |                 Windows                  |                   Mac                    |                   iOS                    |                 Android                  |
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
+|                   2010                   |                   2016                   |               Google Play                |                App Store                 |
 |                   Free                   |                   Free                   |                   Free                   |                   Free                   |
-| [Updating](https://www.mozilla.org/en-US/thunderbird/) | [Updating](https://www.mozilla.org/en-US/thunderbird/) | [Updating](https://play.google.com/store/apps/details?id=com.Slack&hl=en) | [Updating](https://itunes.apple.com/us/app/slack/id618783545?mt=8) |
+| [Synology](http://gofile.me/3F6MJ/8l6EtJwsp)<br />Password: onetechasia | [Synology](http://gofile.me/3F6MJ/NtOJyKF9i)<br />Password: onetechasia | [Word](https://play.google.com/store/apps/details?id=com.microsoft.office.word&hl=en) | [Word](https://itunes.apple.com/us/app/microsoft-word/id586447913?mt=8) |
+|                                          |                                          | [Excel](https://play.google.com/store/apps/details?id=com.microsoft.office.excel&hl=en) | [Excel](https://itunes.apple.com/us/app/microsoft-excel/id586683407?mt=8) |
+|                                          |                                          | [PowerPoint](https://play.google.com/store/apps/details?id=com.microsoft.office.powerpoint&hl=en) | [PowerPoint](https://itunes.apple.com/us/app/microsoft-powerpoint/id586449534?mt=8) |
+|                                          |                                          | [OneNote](https://play.google.com/store/apps/details?id=com.microsoft.office.onenote&hl=en) | [OneNote](https://itunes.apple.com/us/app/microsoft-onenote/id410395246?mt=8) |
+|                                          |                                          | [Outlook](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&hl=en) | [Outlook](https://itunes.apple.com/us/app/microsoft-outlook/id951937596?mt=8) |
 
-**Setup**
-(updating)
+**Setup (Mac)**
+
+- Cài đặt file **Microsoft_Office_2016_15.37.17081500_Installer** trước.
+- Chú ý trong lúc cài có thể tuỳ chọn phần mềm nào cần cài đặt.
+- 
 
 **Notes**
 
