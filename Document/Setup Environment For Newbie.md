@@ -319,9 +319,9 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 (updating)
 
-|                 Windows                  |                   Mac                    |
-| :--------------------------------------: | :--------------------------------------: |
-|                   Free                   |                   Free                   |
+|                Windows                |                  Mac                  |
+| :-----------------------------------: | :-----------------------------------: |
+|                 Free                  |                 Free                  |
 | [Installer](https://store.unity.com/) | [Installer](https://store.unity.com/) |
 
 **Setup**
@@ -333,7 +333,9 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 **Tips and tricks**
 (updating) 
 
-## [MonoDevelop](https://www.mozilla.org/en-US/thunderbird/)<a name="mono-develop"></a>
+## MonoDevelop<a name="mono-develop"></a>
+
+[![MonoDevelop](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/mono_develop/icon_mono_develop.png)](http://www.monodevelop.com/)
 
 **Mục đích**
 - Ngôn ngữ hỗ trợ thông dụng: C#, Javascript.
@@ -344,7 +346,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 |                 Windows                  |                   Mac                    |
 | :--------------------------------------: | :--------------------------------------: |
 |                   Free                   |                   Free                   |
-| [Installer](https://store.unity.com/) | [Installer](https://store.unity.com/) |
+| [Installer](http://www.monodevelop.com/download/) | [Installer](http://www.monodevelop.com/download/) |
 
 **Setup**
 (updating)
