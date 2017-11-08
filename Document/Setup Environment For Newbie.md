@@ -372,12 +372,17 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 | :--------------------------------------: | :--------------------------------------: |
 |               CS6 Extended               |                    CC                    |
 |                 Cracked                  |                 Cracked                  |
-| [Synology](http://gofile.me/3F6MJ/EIuub8PGO)<br />Password: onetechasia | [Creative Cloud](http://www.adobe.com/sea/creativecloud/desktop-app.html)<br />[Cracked](http://gofile.me/3F6MJ/8l6EtJwsp)<br />Password: onetechasia |
+| [Synology](http://gofile.me/3F6MJ/EIuub8PGO)<br />Password: onetechasia | [Creative Cloud](http://www.adobe.com/sea/creativecloud/desktop-app.html)<br />[Cracked](http://gofile.me/3F6MJ/xxEbpiPZv)<br />Password: onetechasia |
 
 **Setup (Mac)**
 
 - Cài đặt **Creative Cloud**.
 - Sau khi cài đặt xong, click vào icon **Creative Cloud** trên thanh tabbar và **Install Photoshop CC**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_00.png" width="600"/>
+
+- Sau khi cài đặt xong, vào package **Adobe Photoshop CC 2017** replace file **amtlib.framework** trong thư mục **Contents/Frameworks** để crack.
+- 
 
 **Notes**
 (updating)
