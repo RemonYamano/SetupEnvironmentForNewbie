@@ -382,7 +382,10 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_00.png" width="600"/>
 
 - Sau khi cài đặt xong, vào package **Adobe Photoshop CC 2017** replace file **amtlib.framework** trong thư mục **Contents/Frameworks** để crack.
-- 
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_01.png" width="600"/>
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_02.png" width="600"/>
 
 **Notes**
 (updating)
