@@ -462,7 +462,6 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 > 127.0.0.1 wwis-dubc1-vip60.adobe.com
 > 127.0.0.1 wwis-dubc1-vip60.adobe.com
 > 127.0.0.1 wwis-dubc1-vip60.adobe.com
->
 
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_03.png" width="600"/>
 
