@@ -188,7 +188,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 - Cài đặt file setup **Microsoft_Office_2016_15.37.17081500_Installer**.
 - Sau khi cài đặt xong chạy file **Microsoft_Office_2016_VL_Serializer** để crack.
-- Chú ý trong lúc cài có thể tuỳ chọn phần mềm nào cần cài đặt.
+- Chú ý trong lúc cài đặt có thể tuỳ chọn phần mềm nào cần cài đặt.
 - Chọn **Customize**.
 
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/office_standard/office_00.png" width="600">
@@ -210,19 +210,19 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 - **OneNote** rất phù hợp để lưu trữ note vì dễ sử dụng và synchronization.
 
-## [Typora](https://www.microsoft.com/en-us/store/b/office)<a name="word-excel-onenote"></a>
+## [Typora](https://www.microsoft.com/en-us/store/b/office)<a name="typora"></a>
+
+[![Typora](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/typora/icon_typora.png)](https://typora.io/)
 
 **Mục đích**
 - Soạn thảo văn bản trong redmine.
 
 **Download**
 
-(updating)
-
-|                 Windows                  |                   Mac                    |                   iOS                    |                 Android                  |
-| :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
-|                   Free                   |                   Free                   |                   Free                   |                   Free                   |
-| [Updating](https://www.mozilla.org/en-US/thunderbird/) | [Updating](https://www.mozilla.org/en-US/thunderbird/) | [Updating](https://play.google.com/store/apps/details?id=com.Slack&hl=en) | [Updating](https://itunes.apple.com/us/app/slack/id618783545?mt=8) |
+|                 Windows                  |                   Mac                    |
+| :--------------------------------------: | :--------------------------------------: |
+|                   Free                   |                   Free                   |
+| [Installer](https://typora.io/download/Typora.dmg?) | [Direct Link](https://typora.io/#windows) |
 
 **Setup**
 (updating)
