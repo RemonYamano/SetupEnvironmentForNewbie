@@ -279,7 +279,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 (updating)
 
 **Tips and tricks**
-(updating)  
+(updating)
 
 ## Microsoft Visual Studio<a name="microsoft-visual-studio"></a>
 
@@ -504,20 +504,36 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 ## [Illustrator](https://www.mozilla.org/en-US/thunderbird/)<a name="illustrator"></a>
 
+[![Illustrator](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/illustrator/icon_illustrator.png)](http://www.adobe.com/sea/products/illustrator.html)
+
 **Mục đích**
 - Xử lý hình ảnh 2D.
 
 **Download** 
 
-(updating)
+|                 Windows                  |                   Mac                    |
+| :--------------------------------------: | :--------------------------------------: |
+|               CS6               |                    CC                    |
+|                 Cracked                  |                 Cracked                  |
+| [Synology](http://gofile.me/3F6MJ/rZNzHBl09)<br />Password: onetechasia | [Creative Cloud](http://www.adobe.com/sea/creativecloud/desktop-app.html)<br />[Cracked](http://gofile.me/3F6MJ/inSPJyIud)<br />Password: onetechasia |
 
-|                 Windows                  |                   Mac                    |      iOS      |    Android    |
-| :--------------------------------------: | :--------------------------------------: | :-----------: | :-----------: |
-|              Not supported               |                   Free                   | Not supported | Not supported |
-| [Online](https://www.mozilla.org/en-US/thunderbird/) | [Online](https://www.mozilla.org/en-US/thunderbird/) |               |               |
+**Setup (Mac)**
 
-**Setup**
-(updating)
+- Cài đặt **Creative Cloud**.
+- Sau khi cài đặt xong, click vào icon **Creative Cloud** trên thanh tabbar và **Install Illustrator CC**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/illustrator/illustrator_00.png" width="600"/>
+
+- Sau khi cài đặt xong, vào package **Adobe Illustrator CC 2017** copy đè file **amtlib.framework** trong thư mục **Contents/Frameworks** để crack.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/illustrator/illustrator_01.png" width="600"/>
+
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/illustrator/illustrator_02.png" width="600"/>
+
+**Setup (Windows)**
+
+- **Chú ý ngắt mạng trong quá trình cài đặt**.
 
 **Notes**
 (updating)
