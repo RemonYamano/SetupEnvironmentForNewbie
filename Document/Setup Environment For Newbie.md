@@ -341,17 +341,16 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 **Download**
 
-(updating)
-
-|                   Mac                    | 
-|                   Free                   | 
-| [Mac Store](https://itunes.apple.com/vn/app/xcode/id497799835?mt=12) | 
+|                 Windows                  |                   Mac                    |
+| :--------------------------------------: | :--------------------------------------: |
+|                   Free                   |                   Free                   |
+| [Installer](https://store.unity.com/) | [Installer](https://store.unity.com/) |
 
 **Setup**
 (updating)
 
 **Notes**
-(updating)
+- MonoDevelop được tích hợp sẵn trong bộ cài đặt Unity.
 
 **Tips and tricks**
 (updating) 
