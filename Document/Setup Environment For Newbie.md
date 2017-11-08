@@ -238,13 +238,14 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 **Mục đích**
 - Lập trình ứng dụng sử dụng iOS.
 - Ngôn ngữ hỗ trợ thông dụng: Object-C, Swift.
-- Là công cụ để build các project Cocos2d-x, Unity.
+- Là công cụ để build các project native, Cocos2d-x, Unity.
 
 **Download**
 
-|                   Mac                    | 
-|                   Free                   | 
-| [Mac Store](https://itunes.apple.com/vn/app/xcode/id497799835?mt=12) | 
+|                   Mac                    |
+| :--------------------------------------: |
+|                   Free                   |
+| [Mac Store](https://itunes.apple.com/vn/app/xcode/id497799835?mt=12) |
 
 **Setup**
 (updating)
@@ -255,21 +256,21 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 **Tips and tricks**
 (updating)
 
-## [Android Studio](https://www.mozilla.org/en-US/thunderbird/)<a name="android-studio"></a>
+## Android Studio<a name="android-studio"></a>
+
+[![Android Studio](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/android_studio/icon_android_studio.png)](https://developer.android.com/studio/index.html)
 
 **Mục đích**
 - Lập trình ứng dụng sử dụng java, android.
 - Ngôn ngữ hỗ trợ thông dụng: java, kotlin.
-- Là công cụ để build các project Cocos2d-x, Unity.
+- Là công cụ để build các project native, Cocos2d-x, Unity.
 
 **Download**
 
-(updating)
-
-|    Windows    |                   Mac                    |      iOS      |    Android    |
-| :-----------: | :--------------------------------------: | :-----------: | :-----------: |
-| Not supported |                   Free                   | Not supported | Not supported |
-|               | [Online](https://www.mozilla.org/en-US/thunderbird/) |               |               |
+|                 Windows                  |                   Mac                    |
+| :--------------------------------------: | :--------------------------------------: |
+|                   Free                   |                   Free                   |
+| [Installer](https://developer.android.com/studio/index.html) | [Installer](https://developer.android.com/studio/index.html) |
 
 **Setup**
 (updating)
@@ -280,32 +281,34 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 **Tips and tricks**
 (updating)  
 
-## [Microsoft Visual Studio](https://www.mozilla.org/en-US/thunderbird/)<a name="microsoft-visual-studio"></a>
+## Microsoft Visual Studio<a name="microsoft-visual-studio"></a>
+
+[![Microsoft Visual Studio](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/visual_studio/icon_visual_studio.png)](https://www.visualstudio.com/)
 
 **Mục đích**
 - Lập trình ứng dụng trên Windows.
 - Ngôn ngữ hỗ trợ thông dụng: C, C++, C#
-- Là công cụ để coding các project Cocos2d-x, Unity.
+- Là công cụ để coding các project native, Cocos2d-x, Unity.
 
 **Download**
 
-(updating)
-
-|                 Windows                  |                   Mac                    |      iOS      |    Android    |
-| :--------------------------------------: | :--------------------------------------: | :-----------: | :-----------: |
-|                   Free                   |                   Free                   | Not supported | Not supported |
-| [Updating](https://www.mozilla.org/en-US/thunderbird/) | [Updating](https://www.mozilla.org/en-US/thunderbird/) |               |               |
+|                 Windows                  |                   Mac                    |
+| :--------------------------------------: | :--------------------------------------: |
+|                   Free                   |                   Free                   |
+| [Installer](https://www.visualstudio.com/) | [Installer](https://www.visualstudio.com/) |
 
 **Setup**
 (updating)
 
 **Notes**
-(updating)
+- **Mac**: Nên sử dụng MonoDevelop để code Unity.
 
 **Tips and tricks**
 (updating) 
 
-## [Unity](https://www.mozilla.org/en-US/thunderbird/)<a name="unity"></a>
+## Unity<a name="unity"></a>
+
+[![Unity](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/unity/icon_unity.png)](https://unity3d.com/)
 
 **Mục đích**
 - Lập trình ứng dụng trên đa nền tảng.
@@ -316,16 +319,16 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 (updating)
 
-|                 Windows                  |                   Mac                    |      iOS      |    Android    |
-| :--------------------------------------: | :--------------------------------------: | :-----------: | :-----------: |
-|                   Free                   |                   Free                   | Not supported | Not supported |
-| [Updating](https://www.mozilla.org/en-US/thunderbird/) | [Updating](https://www.mozilla.org/en-US/thunderbird/) |               |               |
+|                 Windows                  |                   Mac                    |
+| :--------------------------------------: | :--------------------------------------: |
+|                   Free                   |                   Free                   |
+| [Installer](https://store.unity.com/) | [Installer](https://store.unity.com/) |
 
 **Setup**
 (updating)
 
 **Notes**
-(updating)
+- Công ty có mua bản Pro, liên hệ Mr.Sơn hoặc Mr.Duy.
 
 **Tips and tricks**
 (updating) 
