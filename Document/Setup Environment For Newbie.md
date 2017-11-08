@@ -465,7 +465,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_04.png" width="600"/>
 
-- Giải nén **PhotoshopCS6Extended** và chạy file setup.
+- Giải nén **PhotoshopCS6Extended** và chạy file setup **Set-up**.
 
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_05.png" width="600"/>
 
@@ -513,7 +513,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 |                 Windows                  |                   Mac                    |
 | :--------------------------------------: | :--------------------------------------: |
-|               CS6               |                    CC                    |
+|                   CS6                    |                    CC                    |
 |                 Cracked                  |                 Cracked                  |
 | [Synology](http://gofile.me/3F6MJ/rZNzHBl09)<br />Password: onetechasia | [Creative Cloud](http://www.adobe.com/sea/creativecloud/desktop-app.html)<br />[Cracked](http://gofile.me/3F6MJ/inSPJyIud)<br />Password: onetechasia |
 
@@ -534,6 +534,24 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 **Setup (Windows)**
 
 - **Chú ý ngắt mạng trong quá trình cài đặt**.
+- Chạy file setup **Illustrator_16_LS16**.
+- Chọn **Install (I have a serial number)**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/illustrator/illustrator_03.png" width="600"/>
+
+- Điền key **1330-1642-1085-1634-7670-7031** và chọn **Next**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/illustrator/illustrator_04.png" width="600"/>
+
+- Chọn **Connect Later**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/illustrator/illustrator_05.png" width="600"/>
+
+- Sau khi cài đặt xong, tiến hành crack.
+- **Win32**: copy đè file **32-bit\\amtlib.dll** trong thư mục **C:\\Program Files (x86)\\Adobe\\Adobe Illustrator CS6\\Support Files\Contents\Windows**.
+- **Win64**: copy đè file **64-bit\\amtlib.dll** trong thư mục **C:\\Program Files\\Adobe\\Adobe Illustrator CS6 (64 Bit)\\Support Files\\Contents\\Windows**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/illustrator/illustrator_06.png" width="600"/>
 
 **Notes**
 (updating)
