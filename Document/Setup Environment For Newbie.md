@@ -385,7 +385,91 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_01.png" width="600"/>
 
+
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_02.png" width="600"/>
+
+- Cài đặt thành công.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_03.png" width="600"/>
+
+**Setup (Windows)**
+
+- **Chú ý ngắt mạng trong quá trình cài đặt**.
+- Vào thư mục **C:\\Windows\\System32\\drivers\\etc** thêm dải sau vào cuối file **host**. Chú ý để edit được file này cần phải có quyền **admin**.
+
+> 127.0.0.1 192.150.14.69
+> 127.0.0.1 192.150.18.101
+> 127.0.0.1 192.150.18.108
+> 127.0.0.1 192.150.22.40
+> 127.0.0.1 192.150.8.100
+> 127.0.0.1 192.150.8.118
+> 127.0.0.1 209-34-83-73.ood.opsource.net
+> 127.0.0.1 3dns-1.adobe.com
+> 127.0.0.1 3dns-2.adobe.com
+> 127.0.0.1 3dns-2.adobe.com
+> 127.0.0.1 3dns-3.adobe.com
+> 127.0.0.1 3dns-3.adobe.com
+> 127.0.0.1 3dns-4.adobe.com
+> 127.0.0.1 3dns.adobe.com
+> 127.0.0.1 activate-sea.adobe.com
+> 127.0.0.1 activate-sea.adobe.com
+> 127.0.0.1 activate-sjc0.adobe.com
+> 127.0.0.1 activate-sjc0.adobe.com
+> 127.0.0.1 activate.adobe.com
+> 127.0.0.1 activate.adobe.com
+> 127.0.0.1 activate.wip.adobe.com
+> 127.0.0.1 activate.wip1.adobe.com
+> 127.0.0.1 activate.wip2.adobe.com
+> 127.0.0.1 activate.wip3.adobe.com
+> 127.0.0.1 activate.wip3.adobe.com
+> 127.0.0.1 activate.wip4.adobe.com
+> 127.0.0.1 adobe-dns-1.adobe.com
+> 127.0.0.1 adobe-dns-2.adobe.com
+> 127.0.0.1 adobe-dns-2.adobe.com
+> 127.0.0.1 adobe-dns-3.adobe.com
+> 127.0.0.1 adobe-dns-3.adobe.com
+> 127.0.0.1 adobe-dns-4.adobe.com
+> 127.0.0.1 adobe-dns.adobe.com
+> 127.0.0.1 adobe-dns.adobe.com
+> 127.0.0.1 adobe.activate.com
+> 127.0.0.1 adobeereg.com
+> 127.0.0.1 crl.verisign.net
+> 127.0.0.1 CRL.VERISIGN.NET.*
+> 127.0.0.1 ereg.adobe.com
+> 127.0.0.1 ereg.adobe.com
+> 127.0.0.1 ereg.wip.adobe.com
+> 127.0.0.1 ereg.wip1.adobe.com
+> 127.0.0.1 ereg.wip2.adobe.com
+> 127.0.0.1 ereg.wip3.adobe.com
+> 127.0.0.1 ereg.wip3.adobe.com
+> 127.0.0.1 ereg.wip4.adobe.com
+> 127.0.0.1 hl2rcv.adobe.com
+> 127.0.0.1 ood.opsource.net
+> 127.0.0.1 practivate.adobe
+> 127.0.0.1 practivate.adobe.*
+> 127.0.0.1 practivate.adobe.com
+> 127.0.0.1 practivate.adobe.com
+> 127.0.0.1 practivate.adobe.ipp
+> 127.0.0.1 practivate.adobe.newoa
+> 127.0.0.1 practivate.adobe.ntp
+> 127.0.0.1 tss-geotrust-crl.thawte.com
+> 127.0.0.1 wip.adobe.com
+> 127.0.0.1 wip1.adobe.com
+> 127.0.0.1 wip2.adobe.com
+> 127.0.0.1 wip3.adobe.com
+> 127.0.0.1 wip3.adobe.com
+> 127.0.0.1 wip4.adobe.com
+> 127.0.0.1 wwis-dubc1-vip60.adobe.com
+> 127.0.0.1 wwis-dubc1-vip60.adobe.com
+> 127.0.0.1 wwis-dubc1-vip60.adobe.com
+>
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_03.png" width="600"/>
+
+
+- Giải nén **PhotoshopCS6Extended** và chạy file setup.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_04.png" width="600"/>
 
 **Notes**
 (updating)
