@@ -10,7 +10,7 @@
 * [Software - Mail](#software-mail)
   * [Thunderbird](#thunderbird)
 * [Software - Office](#software-office)
-  * [Standard(Word - Excel - PowerPoint - OneNote - Outlook)](#office-standard)
+  * [Standard (Word - Excel - PowerPoint - OneNote - Outlook)](#office-standard)
   * [Typora](#typora)
 * [Software - Lập trình](#software-develop)
   * [Xcode](#xcode)
@@ -163,7 +163,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 # Software - Office<a name="software-office"></a>
 
-## Standard(Word - Excel - PowerPoint - OneNote - Outlook)<a name="office-standard"></a>
+## Standard (Word - Excel - PowerPoint - OneNote - Outlook)<a name="office-standard"></a>
 
 [![Microsoft Office](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/office_standard/icon_office.png)](https://www.microsoft.com/en-us/store/b/office)
 
@@ -210,12 +210,12 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 - **OneNote** rất phù hợp để lưu trữ note vì dễ sử dụng và synchronization.
 
-## [Typora](https://www.microsoft.com/en-us/store/b/office)<a name="typora"></a>
+## Typora<a name="typora"></a>
 
 [![Typora](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/typora/icon_typora.png)](https://typora.io/)
 
 **Mục đích**
-- Soạn thảo văn bản trong redmine.
+- Soạn thảo văn bản format markdown trong redmine.
 
 **Download**
 
@@ -224,18 +224,16 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 |                   Free                   |                   Free                   |
 | [Installer](https://typora.io/download/Typora.dmg?) | [Direct Link](https://typora.io/#windows) |
 
-**Setup**
-(updating)
-
-**Notes**
-(updating)
-
 **Tips and tricks**
-(updating)
+
+- Sử dụng phím tắt ***Cmd + /*** để chuyển đổi nhanh giữa **Source Code Mode** và **Normal Mode**.
+- Markdown syntax: https://learn.getgrav.org/content/markdown
 
 # Software - Lập trình<a name="software-develop"></a>
 
-## [Xcode](https://www.mozilla.org/en-US/thunderbird/)<a name="thunderbird"></a>
+## Xcode<a name="xcode"></a>
+
+[![Xcode](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/xcode/icon_xcode.png)](https://developer.apple.com/xcode/)
 
 **Mục đích**
 - Lập trình ứng dụng sử dụng iOS.
@@ -244,12 +242,9 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 **Download**
 
-(updating)
-
-|    Windows    |                   Mac                    |      iOS      |    Android    |
-| :-----------: | :--------------------------------------: | :-----------: | :-----------: |
-| Not supported |                   Free                   | Not supported | Not supported |
-|               | [Online](https://www.mozilla.org/en-US/thunderbird/) |               |               |
+|                   Mac                    | 
+|                   Free                   | 
+| [Mac Store](https://itunes.apple.com/vn/app/xcode/id497799835?mt=12) | 
 
 **Setup**
 (updating)
@@ -345,10 +340,9 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 (updating)
 
-|                 Windows                  |                   Mac                    |      iOS      |    Android    |
-| :--------------------------------------: | :--------------------------------------: | :-----------: | :-----------: |
-|                   Free                   |                   Free                   | Not supported | Not supported |
-| [Updating](https://www.mozilla.org/en-US/thunderbird/) | [Updating](https://www.mozilla.org/en-US/thunderbird/) |               |               |
+|                   Mac                    | 
+|                   Free                   | 
+| [Mac Store](https://itunes.apple.com/vn/app/xcode/id497799835?mt=12) | 
 
 **Setup**
 (updating)
