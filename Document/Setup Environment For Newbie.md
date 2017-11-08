@@ -232,7 +232,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 |                 Windows                  |                   Mac                    |
 | :--------------------------------------: | :--------------------------------------: |
 |                   Free                   |                   Free                   |
-| [Installer](https://typora.io/download/Typora.dmg?) | [Direct Link](https://typora.io/#windows) |
+| [Installer](https://typora.io/download/Typora.dmg) | [Direct Link](https://typora.io/#windows) |
 
 **Tips and tricks**
 
@@ -241,31 +241,31 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 ## Sublime Text<a name="sublime_text"></a>
 
-[![Sublime Text](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/sublime_text/icon_sublime_text.png)](https://typora.io/)
+[![Sublime Text](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/sublime_text/icon_sublime_text.png)](https://www.sublimetext.com/)
 
 **Mục đích**
-- Soạn thảo văn bản format markdown trong redmine.
+- Soạn thảo văn bản.
 
 **Download**
 
 |                 Windows                  |                   Mac                    |
 | :--------------------------------------: | :--------------------------------------: |
 |                   Free                   |                   Free                   |
-| [Installer](https://typora.io/download/Typora.dmg?) | [Direct Link](https://typora.io/#windows) |
+| [Installer](https://www.sublimetext.com/) | [Installer](https://www.sublimetext.com/) |
 
-## Typora<a name="typora"></a>
+## Notepad++<a name="notepad_plus_plus"></a>
 
-[![Typora](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/typora/icon_typora.png)](https://typora.io/)
+[![Notepad++](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/notepad_plus_plus/icon_notepad_plus_plus.png)](https://notepad-plus-plus.org/)
 
 **Mục đích**
-- Soạn thảo văn bản format markdown trong redmine.
+- Soạn thảo văn bản.
 
 **Download**
 
-|                 Windows                  |                   Mac                    |
-| :--------------------------------------: | :--------------------------------------: |
-|                   Free                   |                   Free                   |
-| [Installer](https://typora.io/download/Typora.dmg?) | [Direct Link](https://typora.io/#windows) |
+|                 Windows                  |     Mac     |
+| :--------------------------------------: | :---------: |
+|                   Free                   | Unsupported |
+| [Installer](https://notepad-plus-plus.org/download/) |             |
 
 # Software - Lập trình<a name="software-develop"></a>
 
@@ -597,7 +597,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 **Tips and tricks**
 (updating)
 
-# Software - Hỗ trợ<a name="software-support"></a>
+# Software - Git<a name="software-git"></a>
 
 ## TortoiseGit<a name="tortoise_git"></a>
 
@@ -608,10 +608,10 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 **Download**
 
-|                 Windows                  |
-| :--------------------------------------: |
-|                   Free                   |
-| [Installer](https://tortoisegit.org/download/) |
+|                 Windows                  |     Mac     |
+| :--------------------------------------: | :---------: |
+|                   Free                   | Unsupported |
+| [Installer](https://tortoisegit.org/download/) |             |
 
 ## Tower<a name="tower"></a>
 
@@ -622,10 +622,10 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 **Download**
 
-|                   Mac                    |
-| :--------------------------------------: |
-|                 Cracked                  |
-| [Installer](https://developer.android.com/studio/index.html) |
+|   Windows   |                   Mac                    |
+| :---------: | :--------------------------------------: |
+| Unsupported |                 Cracked                  |
+|             | [Synology](http://gofile.me/3F6MJ/AZeYU79Df)<br />Password: onetechasia |
 
 **Setup**
 (updating)
@@ -645,9 +645,9 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 **Download**
 
-|                   Windows                    |                   Mac                    |
-| :--------------------------------------: |:--------------------------------------: |
-|                 Free                  |                 Free                  |
+|                 Windows                  |                   Mac                    |
+| :--------------------------------------: | :--------------------------------------: |
+|                   Free                   |                   Free                   |
 | [Installer](https://developer.android.com/studio/index.html) | [Installer](https://developer.android.com/studio/index.html) |
 
 **Setup**
