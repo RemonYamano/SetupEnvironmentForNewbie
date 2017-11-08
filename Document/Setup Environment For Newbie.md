@@ -12,6 +12,8 @@
 * [Software - Office](#software-office)
   * [Standard (Word - Excel - PowerPoint - OneNote - Outlook)](#office-standard)
   * [Typora](#typora)
+  * [Sublime Text](#sublime_text )
+  * [Notepad++](#notepad_plus_plus)
 * [Software - Lập trình](#software-develop)
   * [Xcode](#xcode)
   * [Android Studio](#android-studio)
@@ -21,6 +23,14 @@
 * [Software - Hình ảnh](#software-image)
   * [Photoshop](#photoshop)
   * [Illustrator](#illustrator)
+* [Software - Git](#software-git)
+  * [TortoiseGit](#tortoise_git)
+  * [Tower](#tower)
+  * [SourceTree](#source_tree)
+* [Software - Hỗ trợ](#software-git)
+  * [TortoiseGit](#tortoise_git)
+  * [Tower](#tower)
+  * [SourceTree](#source_tree)
 * [Những người bạn nên biết](#mvp-agent)
 
 # Mục đích chung<a name="muc-dich"></a>
@@ -228,6 +238,34 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 - Sử dụng phím tắt ***Cmd + /*** để chuyển đổi nhanh giữa **Source Code Mode** và **Normal Mode**.
 - Markdown syntax: https://learn.getgrav.org/content/markdown
+
+## Sublime Text<a name="sublime_text"></a>
+
+[![Sublime Text](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/sublime_text/icon_sublime_text.png)](https://typora.io/)
+
+**Mục đích**
+- Soạn thảo văn bản format markdown trong redmine.
+
+**Download**
+
+|                 Windows                  |                   Mac                    |
+| :--------------------------------------: | :--------------------------------------: |
+|                   Free                   |                   Free                   |
+| [Installer](https://typora.io/download/Typora.dmg?) | [Direct Link](https://typora.io/#windows) |
+
+## Typora<a name="typora"></a>
+
+[![Typora](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/typora/icon_typora.png)](https://typora.io/)
+
+**Mục đích**
+- Soạn thảo văn bản format markdown trong redmine.
+
+**Download**
+
+|                 Windows                  |                   Mac                    |
+| :--------------------------------------: | :--------------------------------------: |
+|                   Free                   |                   Free                   |
+| [Installer](https://typora.io/download/Typora.dmg?) | [Direct Link](https://typora.io/#windows) |
 
 # Software - Lập trình<a name="software-develop"></a>
 
@@ -534,7 +572,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 **Setup (Windows)**
 
 - **Chú ý ngắt mạng trong quá trình cài đặt**.
-- Chạy file setup **Illustrator_16_LS16**.
+- Chạy file setup **Illustrator\_16\_LS16**.
 - Chọn **Install (I have a serial number)**.
 
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/illustrator/illustrator_03.png" width="600"/>
@@ -552,6 +590,68 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 - **Win64**: copy đè file **64-bit\\amtlib.dll** trong thư mục **C:\\Program Files\\Adobe\\Adobe Illustrator CS6 (64 Bit)\\Support Files\\Contents\\Windows**.
 
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/illustrator/illustrator_06.png" width="600"/>
+
+**Notes**
+(updating)
+
+**Tips and tricks**
+(updating)
+
+# Software - Hỗ trợ<a name="software-support"></a>
+
+## TortoiseGit<a name="tortoise_git"></a>
+
+[![TortoiseGit](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tortoise_git/icon_tortoise_git.png)](https://tortoisegit.org/)
+
+**Mục đích**
+- Quản lý source code trên Windows.
+
+**Download**
+
+|                 Windows                  |
+| :--------------------------------------: |
+|                   Free                   |
+| [Installer](https://tortoisegit.org/download/) |
+
+## Tower<a name="tower"></a>
+
+[![Tower](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tower/icon_tower.png)](https://www.git-tower.com/)
+
+**Mục đích**
+- Quản lý source code trên Mac.
+
+**Download**
+
+|                   Mac                    |
+| :--------------------------------------: |
+|                 Cracked                  |
+| [Installer](https://developer.android.com/studio/index.html) |
+
+**Setup**
+(updating)
+
+**Notes**
+(updating)
+
+**Tips and tricks**
+(updating)
+
+## SourceTree<a name="source_tree"></a>
+
+[![SourceTree](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tower/icon_tower.png)](https://www.git-tower.com/)
+
+**Mục đích**
+- Quản lý source code trên Mac, Windows.
+
+**Download**
+
+|                   Windows                    |                   Mac                    |
+| :--------------------------------------: |:--------------------------------------: |
+|                 Free                  |                 Free                  |
+| [Installer](https://developer.android.com/studio/index.html) | [Installer](https://developer.android.com/studio/index.html) |
+
+**Setup**
+(updating)
 
 **Notes**
 (updating)
