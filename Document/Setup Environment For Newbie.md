@@ -177,7 +177,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 |                 Windows                  |                   Mac                    |                   iOS                    |                 Android                  |
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
 |                   2010                   |                   2016                   |               Google Play                |                App Store                 |
-|                   Free                   |                   Free                   |                   Free                   |                   Free                   |
+|                 Cracked                  |                 Cracked                  |                   Free                   |                   Free                   |
 | [Synology](http://gofile.me/3F6MJ/8l6EtJwsp)<br />Password: onetechasia | [Synology](http://gofile.me/3F6MJ/NtOJyKF9i)<br />Password: onetechasia | [Word](https://play.google.com/store/apps/details?id=com.microsoft.office.word&hl=en) | [Word](https://itunes.apple.com/us/app/microsoft-word/id586447913?mt=8) |
 |                                          |                                          | [Excel](https://play.google.com/store/apps/details?id=com.microsoft.office.excel&hl=en) | [Excel](https://itunes.apple.com/us/app/microsoft-excel/id586683407?mt=8) |
 |                                          |                                          | [PowerPoint](https://play.google.com/store/apps/details?id=com.microsoft.office.powerpoint&hl=en) | [PowerPoint](https://itunes.apple.com/us/app/microsoft-powerpoint/id586449534?mt=8) |
@@ -359,22 +359,25 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 # Software - Hình ảnh<a name="software-image"></a>
 
-## [Photoshop](https://www.mozilla.org/en-US/thunderbird/)<a name="photoshop"></a>
+## Photoshop<a name="photoshop"></a>
+
+[![Photoshop](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/icon_photoshop.png)](http://www.adobe.com/sea/products/photoshop.html)
 
 **Mục đích**
 - Xử lý hình ảnh 2D.
 
 **Download**
 
-(updating)
+|                 Windows                  |                   Mac                    |
+| :--------------------------------------: | :--------------------------------------: |
+|               CS6 Extended               |                    CC                    |
+|                 Cracked                  |                 Cracked                  |
+| [Synology](http://gofile.me/3F6MJ/EIuub8PGO)<br />Password: onetechasia | [Creative Cloud](http://www.adobe.com/sea/creativecloud/desktop-app.html)<br />[Cracked](http://gofile.me/3F6MJ/8l6EtJwsp)<br />Password: onetechasia |
 
-|                 Windows                  |                   Mac                    |      iOS      |    Android    |
-| :--------------------------------------: | :--------------------------------------: | :-----------: | :-----------: |
-|              Not supported               |                   Free                   | Not supported | Not supported |
-| [Online](https://www.mozilla.org/en-US/thunderbird/) | [Online](https://www.mozilla.org/en-US/thunderbird/) |               |               |
+**Setup (Mac)**
 
-**Setup**
-(updating)
+- Cài đặt **Creative Cloud**.
+- Sau khi cài đặt xong, click vào icon **Creative Cloud** trên thanh tabbar và **Install Photoshop CC**.
 
 **Notes**
 (updating)
