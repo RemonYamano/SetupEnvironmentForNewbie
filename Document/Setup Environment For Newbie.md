@@ -487,10 +487,14 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 - Sau khi cài đặt xong, chọn tiếp **Connect Later**.
 - **Chú ý phải mở Photoshop lên rồi mới tiến hành crack**.
-- **Win32**: copy đè file **amtlib.dll** trong thư mục **C:\\Program Files (x86)\\Adobe\\Adobe Photoshop CS6**.
-- **Win64**: copy đè file **amtlib.dll** trong thư mục **C:\\Program Files\\Adobe\\Adobe Photoshop CS6 (64 Bit)**.
+- **Win32**: copy đè file **32-bit\\amtlib.dll** trong thư mục **C:\\Program Files (x86)\\Adobe\\Adobe Photoshop CS6**.
+- **Win64**: copy đè file **64-bit\\amtlib.dll** trong thư mục **C:\\Program Files\\Adobe\\Adobe Photoshop CS6 (64 Bit)**.
 
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_10.png" width="600"/>
+
+- Cài đặt thành công.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_11.png" width="600"/>
 
 **Notes**
 (updating)
