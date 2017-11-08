@@ -381,7 +381,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_00.png" width="600"/>
 
-- Sau khi cài đặt xong, vào package **Adobe Photoshop CC 2017** replace file **amtlib.framework** trong thư mục **Contents/Frameworks** để crack.
+- Sau khi cài đặt xong, vào package **Adobe Photoshop CC 2017** copy đè file **amtlib.framework** trong thư mục **Contents/Frameworks** để crack.
 
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_01.png" width="600"/>
 
@@ -463,12 +463,34 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 > 127.0.0.1 wwis-dubc1-vip60.adobe.com
 > 127.0.0.1 wwis-dubc1-vip60.adobe.com
 
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_03.png" width="600"/>
-
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_04.png" width="600"/>
 
 - Giải nén **PhotoshopCS6Extended** và chạy file setup.
 
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_04.png" width="600"/>
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_05.png" width="600"/>
+
+- Chọn **Install**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_06.png" width="600"/>
+
+- Điền key **1330-1971-4830-5668-6067-1762** và chọn **Next**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_07.png" width="600"/>
+
+- Chọn **Connect Later**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_08.png" width="600"/>
+
+- Chọn phiên bản cần cài đặt: **Adobe Photoshop CS6 (64 Bit)** cho Win64 và **Adobe Photoshop CS6** cho Win32. Sau đó chọn **Install**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_09.png" width="600"/>
+
+- Sau khi cài đặt xong, chọn tiếp **Connect Later**.
+- **Chú ý phải mở Photoshop lên rồi mới tiến hành crack**.
+- **Win32**: copy đè file **amtlib.dll** trong thư mục **C:\\Program Files (x86)\\Adobe\\Adobe Photoshop CS6**.
+- **Win64**: copy đè file **amtlib.dll** trong thư mục **C:\\Program Files\\Adobe\\Adobe Photoshop CS6 (64 Bit)**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/photoshop/photoshop_10.png" width="600"/>
 
 **Notes**
 (updating)
