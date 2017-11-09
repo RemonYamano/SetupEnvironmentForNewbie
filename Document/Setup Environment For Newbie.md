@@ -173,6 +173,32 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/thunder_bird/thunder_bird_12.png" width="600"/>
 
+# Software - Synology<a name="software-synology"></a>
+
+## Synology<a name="synology"></a>
+
+[![Synology](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/synology/icon_synology.png)](https://www.synology.com/en-global)
+
+**Mục đích**
+- Lưu trữ, quản lý tài liệu nội bộ.
+- Share file/folder.
+
+**Download**
+
+|                   Windows                    |                  Mac                    |
+| :--------------------------------------: | :--------------------------------------: |
+|                   Free                   |                 Free                   |
+| | [Mac Store](https://itunes.apple.com/vn/app/xcode/id497799835?mt=12) |
+
+**Setup**
+(updating)
+
+**Notes**
+(updating)
+
+**Tips and tricks**
+(updating)
+
 # Software - Office<a name="software-office"></a>
 
 ## Standard (Word - Excel - PowerPoint - OneNote - Outlook)<a name="office-standard"></a>
@@ -282,10 +308,10 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 **Download**
 
-|                   Mac                    |
-| :--------------------------------------: |
-|                   Free                   |
-| [Mac Store](https://itunes.apple.com/vn/app/xcode/id497799835?mt=12) |
+|                   Windows                    |                  Mac                    |
+| :--------------------------------------: | :--------------------------------------: |
+|                   Unsupported                   |                 Free                   |
+| | [Mac Store](https://itunes.apple.com/vn/app/xcode/id497799835?mt=12) |
 
 **Setup**
 (updating)
