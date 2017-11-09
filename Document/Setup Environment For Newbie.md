@@ -691,7 +691,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 ## Beyond Compare<a name="beyond_compare"></a>
 
-[![TortoiseGit](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/beyond_compare/icon_beyond_compare.png)](https://www.scootersoftware.com/)
+[![Beyond Compare](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/beyond_compare/icon_beyond_compare.png)](https://www.scootersoftware.com/)
 
 **Mục đích**
 - So sánh file/folder.
@@ -706,7 +706,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 ## iFunBox<a name="ifun_box"></a>
 
-[![Tower](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/ifun_box/icon_ifun_box.png)](http://www.i-funbox.com/)
+[![iFunBox](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/ifun_box/icon_ifun_box.png)](http://www.i-funbox.com/)
 
 **Mục đích**
 - Truy cập file, cài đặt ứng dụng cho iPhone/iPad trên Mac.
@@ -727,12 +727,13 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 **Tips and tricks**
 (updating)
 
-## SourceTree<a name="source_tree"></a>
+## Postman<a name="postman"></a>
 
-[![SourceTree](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/source_tree/icon_source_tree.png)](https://www.sourcetreeapp.com/)
+[![Postman](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/postman/icon_postman.png)](https://www.getpostman.com/)
 
 **Mục đích**
-- Quản lý source code trên Mac, Windows.
+- Quản lý, truy xuất APIs.
+- 
 
 **Download**
 
