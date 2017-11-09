@@ -32,7 +32,7 @@
 * [Software - Hỗ trợ](#software-git)
   * [Beyond Compare](#beyond_compare)
   * [iFunBox](#ifun_box)
-  * [SourceTree](#source_tree)
+  * [Postman](#postman)
 * [Những người bạn nên biết](#mvp-agent)
 
 # Mục đích chung<a name="muc-dich"></a>
@@ -185,10 +185,10 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 **Download**
 
-|                   Windows                    |                  Mac                    |
-| :--------------------------------------: | :--------------------------------------: |
-|                   Free                   |                 Free                   |
-| | [Mac Store](https://itunes.apple.com/vn/app/xcode/id497799835?mt=12) |
+| Windows |                   Mac                    |
+| :-----: | :--------------------------------------: |
+|  Free   |                   Free                   |
+|         | [Mac Store](https://itunes.apple.com/vn/app/xcode/id497799835?mt=12) |
 
 **Setup**
 (updating)
@@ -308,10 +308,10 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 **Download**
 
-|                   Windows                    |                  Mac                    |
-| :--------------------------------------: | :--------------------------------------: |
-|                   Unsupported                   |                 Free                   |
-| | [Mac Store](https://itunes.apple.com/vn/app/xcode/id497799835?mt=12) |
+|   Windows   |                   Mac                    |
+| :---------: | :--------------------------------------: |
+| Unsupported |                   Free                   |
+|             | [Mac Store](https://itunes.apple.com/vn/app/xcode/id497799835?mt=12) |
 
 **Setup**
 (updating)
@@ -654,6 +654,69 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 | :---------: | :--------------------------------------: |
 | Unsupported |                 Cracked                  |
 |             | [Synology](http://gofile.me/3F6MJ/AZeYU79Df)<br />Password: onetechasia |
+
+**Setup**
+(updating)
+
+**Notes**
+(updating)
+
+**Tips and tricks**
+(updating)
+
+## SourceTree<a name="source_tree"></a>
+
+[![SourceTree](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/source_tree/icon_source_tree.png)](https://www.sourcetreeapp.com/)
+
+**Mục đích**
+- Quản lý source code trên Mac, Windows.
+
+**Download**
+
+|                 Windows                  |                   Mac                    |
+| :--------------------------------------: | :--------------------------------------: |
+|                   Free                   |                   Free                   |
+| [Installer](https://www.sourcetreeapp.com/) | [Installer](https://www.sourcetreeapp.com/) |
+
+**Setup**
+(updating)
+
+**Notes**
+(updating)
+
+**Tips and tricks**
+(updating)
+
+# Software - Hỗ trợ<a name="software-support"></a>
+
+## Beyond Compare<a name="beyond_compare"></a>
+
+[![TortoiseGit](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/beyond_compare/icon_beyond_compare.png)](https://www.scootersoftware.com/)
+
+**Mục đích**
+- So sánh file/folder.
+- Sử dụng thay thế merge tool của git.
+
+**Download**
+
+|                 Windows                  |     Mac     |
+| :--------------------------------------: | :---------: |
+|                   Cracked                   | Cracked |
+| [Installer](https://tortoisegit.org/download/) | [Installer](https://tortoisegit.org/download/) |
+
+## iFunBox<a name="ifun_box"></a>
+
+[![Tower](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/ifun_box/icon_ifun_box.png)](http://www.i-funbox.com/)
+
+**Mục đích**
+- Truy cập file, cài đặt ứng dụng cho iPhone/iPad trên Mac.
+
+**Download**
+
+|   Windows   |                   Mac                    |
+| :---------: | :--------------------------------------: |
+| Free | Free |
+| [Installer](http://www.i-funbox.com/) | [Installer](http://www.i-funbox.com/) |
 
 **Setup**
 (updating)
