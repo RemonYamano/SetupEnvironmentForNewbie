@@ -9,6 +9,8 @@
   * [Skype](#skype)
 * [Software - Mail](#software-mail)
   * [Thunderbird](#thunderbird)
+* [Software - Synology](#software-synology)
+  * [Synology](#synology)
 * [Software - Office](#software-office)
   * [Standard (Word - Excel - PowerPoint - OneNote - Outlook)](#office-standard)
   * [Typora](#typora)
@@ -28,8 +30,8 @@
   * [Tower](#tower)
   * [SourceTree](#source_tree)
 * [Software - Hỗ trợ](#software-git)
-  * [TortoiseGit](#tortoise_git)
-  * [Tower](#tower)
+  * [Beyond Compare](#beyond_compare)
+  * [iFunBox](#ifun_box)
   * [SourceTree](#source_tree)
 * [Những người bạn nên biết](#mvp-agent)
 
@@ -638,7 +640,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 ## SourceTree<a name="source_tree"></a>
 
-[![SourceTree](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tower/icon_tower.png)](https://www.git-tower.com/)
+[![SourceTree](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/source_tree/icon_source_tree.png)](https://www.sourcetreeapp.com/)
 
 **Mục đích**
 - Quản lý source code trên Mac, Windows.
@@ -648,7 +650,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 |                 Windows                  |                   Mac                    |
 | :--------------------------------------: | :--------------------------------------: |
 |                   Free                   |                   Free                   |
-| [Installer](https://developer.android.com/studio/index.html) | [Installer](https://developer.android.com/studio/index.html) |
+| [Installer](https://www.sourcetreeapp.com/) | [Installer](https://www.sourcetreeapp.com/) |
 
 **Setup**
 (updating)
