@@ -702,7 +702,44 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 |                 Windows                  |                   Mac                    |
 | :--------------------------------------: | :--------------------------------------: |
 |                 Cracked                  |                 Cracked                  |
-| [Synology](http://gofile.me/3F6MJ/TBIor46vU)<br />Password: onetechasia) | [Synology](http://gofile.me/3F6MJ/AZeYU79Df)<br />Password: onetechasia |
+| [Synology](http://gofile.me/3F6MJ/TBIor46vU)<br />Password: onetechasia) | [Synology](http://gofile.me/3F6MJ/qKfpgHS1x)<br />Password: onetechasia |
+
+**Setup (Mac)**
+
+- Sau khi cài đặt xong, vào **Beyond Compare** → **Enter Key...** và nhập key:
+>
+>H1bJTd2SauPv5Garuaq0Ig43uqq5NJOEw94wxdZTpU-pFB9GmyPk677gJ
+>vC1Ro6sbAvKR4pVwtxdCfuoZDb6hJ5bVQKqlfihJfSYZt-xVrVU27+0Ja
+>hFbqTmYskatMTgPyjvv99CF2Te8ec+Ys2SPxyZAF0YwOCNOWmsyqN5y9t
+>q2Kw2pjoiDs5gIH-uw5U49JzOB6otS7kThBJE-H9A76u4uUvR8DKb+VcB
+>rWu5qSJGEnbsXNfJdq5L2D8QgRdV-sXHp2A-7j1X2n4WIISvU1V9koIyS
+>NisHFBTcWJS0sC5BTFwrtfLEE9lEwz2bxHQpWJiu12ZeKpi+7oUSqebX+
+>
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/beyond_compare/beyond_compare_01.png" width="600"/>
+
+- Nhấn **OK** để kết thúc.
+
+**Setup (Windows)**
+
+- Sau khi cài đặt xong, vào **Help** → **Enter Key...** và nhập key:
+>
+>mv1nPlXAywBDCdhxFc9QOVv6TBcQHLAXBQUAKTh3ie4fqSEOnWrPsnVkF
+>yt0wAkJHweoExRJWWVwwCniKNROSdJzJXE6YVapYW7f+tRRXRFI4yn4Nj
+>jZ0RiiqGRCTVzwComUcXB-eiFWRBY6JpSsCNkmIxL5KsRCo442djHhTZE
+>
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/beyond_compare/beyond_compare_02.png" width="600"/>
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/beyond_compare/beyond_compare_03.png" width="600"/>
+
+- Nhấn **OK** để kết thúc.
+
+**Notes**
+(updating)
+
+**Tips and tricks**
+(updating)
 
 ## iFunBox<a name="ifun_box"></a>
 
