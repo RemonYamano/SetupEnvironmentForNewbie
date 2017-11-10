@@ -33,6 +33,7 @@
   * [Beyond Compare](#beyond_compare)
   * [iFunBox](#ifun_box)
   * [Postman](#postman)
+  * [EZ CD Audio Converter](#ez_cd_audio_converter)
 * [Những người bạn nên biết](#mvp-agent)
 
 # Mục đích chung<a name="muc-dich"></a>
@@ -799,12 +800,18 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 | :--------------------------------------: | :--------------------------------------: |
 |                   Free                   |                   Free                   |
 | [Installer](https://www.getpostman.com/) | [Installer](https://www.getpostman.com/) |
-
-**Setup**
 (updating)
 
-**Notes**
-(updating)
+## EZ CD Audio Converter<a name="ez_cd_audio_converter"></a>
 
-**Tips and tricks**
-(updating)
+[![EZ CD Audio Converter](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/ez_cd_audio_converter/icon_ez_cd_audio_converter.png)](https://www.poikosoft.com/)
+
+**Mục đích**
+- Chỉnh sửa, chuyển đổi định dạng file audio.
+
+**Download**
+
+|                 Windows                  |                   Mac                    |
+| :--------------------------------------: | :--------------------------------------: |
+|                   Portable                   |                   Not Available                   |
+| [Synology](http://gofile.me/3F6MJ/uwcyNUQYw)<br />Password: onetechasia) |  |
