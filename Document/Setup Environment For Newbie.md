@@ -42,6 +42,7 @@
     * [Uninstall Application](#uninstall_application)
     * [Keyboard Shortcut](#keyboard_shortcut_mac)
     * [Installation of non-Mac App Store Apps](#installation_of_non-mac_app_store_apps)
+    * [Force Quit Apps](#force_quit_apps)
   * [Windows](#tips_and_tricks_windows)
 * [Những người bạn nên biết](#mvp-agent)
 
@@ -973,3 +974,17 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/installation_of_non-mac_app_store_apps/installation_of_non-mac_app_store_apps_05.png" width="600"/>
 
 - Relaunch **System Preferences** → **Security & Privacy** lại và lựa chọn **Anywhere** sẽ hiện lên.
+
+### Force Quit Apps<a name="force_quit_apps"></a>
+
+**Mục đích**
+-  Trong quá trình sử dụng, sẽ có những lúc apps bị treo đến mức không thể Force Quit theo cách thông thường hay Shutdown máy. Những lúc này cần sử dụng tính năng **Force Quit** của macOS.
+
+**Hướng dẫn**
+-  Click vào icon **Apple** ở góc trên bên trái màn hình → **Force Quit...**
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/force_quit_apps/force_quit_apps_00.png" width="600"/>
+
+- Chọn app đang bị treo → **Force Quit**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/force_quit_apps/force_quit_apps_01.png" width="600"/>
