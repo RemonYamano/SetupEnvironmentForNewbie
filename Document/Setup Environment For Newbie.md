@@ -11,6 +11,7 @@
   * [Thunderbird](#thunderbird)
 * [Software - Synology](#software-synology)
   * [Cloud Station Drive](#cloud_station_drive)
+  * [Synology](#synology)
 * [Software - Office](#software-office)
   * [Standard (Word - Excel - PowerPoint - OneNote - Outlook)](#office-standard)
   * [Typora](#typora)
@@ -188,7 +189,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 ## Cloud Station Drive<a name="cloud_station_drive"></a>
 
-[![Synology](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/cloud_station_drive/icon_cloud_station_drive.png)](https://www.synology.com/en-global/knowledgebase/DSM/help/CloudStationDrive/cloudstationdrive)
+[![Cloud Station Drive](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/cloud_station_drive/icon_cloud_station_drive.png)](https://www.synology.com/en-global/knowledgebase/DSM/help/CloudStationDrive/cloudstationdrive)
 
 **Mục đích**
 - Lưu trữ, quản lý tài liệu nội bộ.
@@ -241,6 +242,31 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 - Vào **Global settings** → **Advanced** chỉnh lại setting như thế này để tránh trường hợp mất file.
 
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/cloud_station_drive/cloud_station_drive_08.png" width="600"/>
+
+## Synology<a name="synology"></a>
+
+[![Synology](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/synology/icon_synology.png)](https://www.synology.com/en-uk)
+
+**Mục đích**
+- Quản lý file trên server.
+
+**Note**
+- Truy cập **Synology** thông qua trình duyệt dưới url http://syn.tek1.top/
+- Yêu cầu phải có tài khoản mới có thể sử dụng. Nếu chưa có tài khoản, liên hệ Mr.Toàn để lấy thông tin đăng nhập.
+- Hướng dẫn truy cập vào **File Station**:
+- Vào **Main Menu**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/synology/synology_00.png" width="600"/>
+
+- Chọn **File Station**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/synology/synology_01.png" width="600"/>
+
+- Giao diện chương trình:
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/synology/synology_02.png" width="600"/>
+
+- Chú ý là nếu muốn truy cập vào các folder private thì cần phải được cấp quyền.
 
 # Software - Office<a name="software-office"></a>
 
