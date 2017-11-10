@@ -951,12 +951,25 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 
 - Click vào **ổ khoá** (yêu cầu nhập mật khẩu).
 
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/three_finger_drag/three_finger_drag_01.png" width="600"/>
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/installation_of_non-mac_app_store_apps/installation_of_non-mac_app_store_apps_01.png" width="600"/>
 
 - Chọn **Anywhere**.
 
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/three_finger_drag/three_finger_drag_02.png" width="600"/>
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/installation_of_non-mac_app_store_apps/installation_of_non-mac_app_store_apps_02.png" width="600"/>
 
 - Click vào **ổ khoá** lần nữa để hoàn tất.
 
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/three_finger_drag/three_finger_drag_03.png" width="600"/>
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/installation_of_non-mac_app_store_apps/installation_of_non-mac_app_store_apps_03.png" width="600"/>
+
+**Note**
+
+- Từ phiên bản macOS Sierra, khi vào **System Preferences** → **Security & Privacy** sẽ không thấy lựa chọn **Anywhere** nữa. Ta làm như sau:
+- Mở **Terminal**
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/installation_of_non-mac_app_store_apps/installation_of_non-mac_app_store_apps_04.png" width="600"/>
+
+- Gõ **sudo spctl --master-disable** và nhấn phím **Enter**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/installation_of_non-mac_app_store_apps/installation_of_non-mac_app_store_apps_05.png" width="600"/>
+
+- Relaunch **System Preferences** → **Security & Privacy** lại và lựa chọn **Anywhere** sẽ hiện lên.
