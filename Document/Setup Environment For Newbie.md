@@ -224,10 +224,6 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/cloud_station_drive/cloud_station_drive_04.png" width="600"/>
 
-- Chọn **Proceed anyway**.
-
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/cloud_station_drive/cloud_station_drive_04.png" width="600"/>
-
 - Chọn folder muốn synchronizing giữa Synology và máy tính.
 
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/cloud_station_drive/cloud_station_drive_05.png" width="600"/>
