@@ -735,11 +735,33 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 - Nhấn **OK** để kết thúc.
 
-**Notes**
-(updating)
-
 **Tips and tricks**
-(updating)
+Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế merge tool mặc định của git:
+**Mac (Tower)**
+
+- Từ **Beyond Compare** → **Install Command Line Tools...** để tiến hành cài đặt.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/beyond_compare/beyond_compare_00.png" width="600"/>
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/beyond_compare/beyond_compare_08.png" width="600"/>
+
+- Từ **Tower** → **Preferences...** → **Git Config** → chọn **Beyond Compare** cho **Diff tool** và **Merge tool**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/beyond_compare/beyond_compare_07.png" width="600"/>
+
+**Windows (TortoiseGit)**
+
+- Từ **TortoiseGit** → **Setting**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/beyond_compare/beyond_compare_04.png" width="600"/>
+
+- Chọn **Diff Viewer** → **External** và link to **Beyond Compare** đã cài đặt.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/beyond_compare/beyond_compare_05.png" width="600"/>
+
+- Chọn **Merge Tool** → **External** và link to **Beyond Compare** đã cài đặt.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/beyond_compare/beyond_compare_06.png" width="600"/>
 
 ## iFunBox<a name="ifun_box"></a>
 
