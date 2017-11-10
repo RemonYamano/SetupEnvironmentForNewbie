@@ -40,6 +40,7 @@
   * [Mac](#tips_and_tricks_mac)
     * [Three Finger Drag](#three_finger_drag)
     * [Uninstall Application](#uninstall_application)
+    * [Keyboard Shortcut](#keyboard_shortcut_mac)
   * [Windows](#tips_and_tricks_windows)
 * [Những người bạn nên biết](#mvp-agent)
 
@@ -920,3 +921,19 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/uninstall_mac/uninstall_mac_01.png" width="600"/>
 
+### Keyboard Shortcut<a name="keyboard_shortcut_mac"></a>
+
+**Mục đích**
+- Giúp thao tác trên Mac nhanh chóng và tiện lợi hơn. 
+
+**Danh sách**
+-  **Cmd** + **Space**: open **Spotlight Search**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/keyboard_shortcut/keyboard_shortcut_00.png" width="600"/>
+
+- **Cmd** + **Shift** + **N**: create **New Folder**.
+- **Cmd** + **Option** + **V**: paste.
+- **Cmd** + **Shift** + **3**: capture màn hình và lưu ở Desktop.
+- **Cmd** + **Control** + **Shift** + **3**: capture màn hình và lưu ở clipboard.
+- **Cmd** + **Shift** + **4**: capture một phần của màn hình và lưu ở Desktop.
+- **Cmd** + **Control** + **Shift** + **3**: capture một phần của màn hình và lưu ở clipboard.
