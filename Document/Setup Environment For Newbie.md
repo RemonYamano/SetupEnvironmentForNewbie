@@ -699,23 +699,23 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 **Download**
 
-|                 Windows                  |     Mac     |
-| :--------------------------------------: | :---------: |
-|                   Cracked                   | Cracked |
-| [Installer](https://tortoisegit.org/download/) | [Installer](https://tortoisegit.org/download/) |
+|                 Windows                  |                   Mac                    |
+| :--------------------------------------: | :--------------------------------------: |
+|                 Cracked                  |                 Cracked                  |
+| [Synology](http://gofile.me/3F6MJ/TBIor46vU)<br />Password: onetechasia) | [Synology](http://gofile.me/3F6MJ/AZeYU79Df)<br />Password: onetechasia |
 
 ## iFunBox<a name="ifun_box"></a>
 
 [![iFunBox](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/ifun_box/icon_ifun_box.png)](http://www.i-funbox.com/)
 
 **Mục đích**
-- Truy cập file, cài đặt ứng dụng cho iPhone/iPad trên Mac.
+- Truy cập file, cài đặt ứng dụng cho iPhone/iPad trên Mac/PC.
 
 **Download**
 
-|   Windows   |                   Mac                    |
-| :---------: | :--------------------------------------: |
-| Free | Free |
+|                Windows                |                  Mac                  |
+| :-----------------------------------: | :-----------------------------------: |
+|                 Free                  |                 Free                  |
 | [Installer](http://www.i-funbox.com/) | [Installer](http://www.i-funbox.com/) |
 
 **Setup**
@@ -733,14 +733,13 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 **Mục đích**
 - Quản lý, truy xuất APIs.
-- 
 
 **Download**
 
 |                 Windows                  |                   Mac                    |
 | :--------------------------------------: | :--------------------------------------: |
 |                   Free                   |                   Free                   |
-| [Installer](https://www.sourcetreeapp.com/) | [Installer](https://www.sourcetreeapp.com/) |
+| [Installer](https://www.getpostman.com/) | [Installer](https://www.getpostman.com/) |
 
 **Setup**
 (updating)
