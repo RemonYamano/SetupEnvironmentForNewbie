@@ -203,13 +203,48 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 | [Synology](http://gofile.me/3F6MJ/rH8LuEOAX)<br />Password: onetechasia | [Synology](http://gofile.me/3F6MJ/dbGgaunGs)<br />Password: onetechasia |
 
 **Setup**
-(updating)
+
+- Nhập domain **syn.tek1.top** → **Search**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/cloud_station_drive/cloud_station_drive_00.png" width="600"/>
+
+- Chọn domain mà chương trình tìm được.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/cloud_station_drive/cloud_station_drive_01.png" width="600"/>
+
+- Nhập vào **username/password**. Nếu chưa có tài khoản, liên hệ Mr.Toàn để lấy thông tin đăng nhập. Sau đó nhấn **Next**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/cloud_station_drive/cloud_station_drive_02.png" width="600"/>
+
+- Chọn **Not now**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/cloud_station_drive/cloud_station_drive_03.png" width="600"/>
+
+- Chọn **Proceed anyway**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/cloud_station_drive/cloud_station_drive_04.png" width="600"/>
+
+- Chọn **Proceed anyway**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/cloud_station_drive/cloud_station_drive_04.png" width="600"/>
+
+- Chọn folder muốn synchronizing giữa Synology và máy tính.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/cloud_station_drive/cloud_station_drive_05.png" width="600"/>
 
 **Notes**
-(updating)
 
-**Tips and tricks**
-(updating)
+- Click vào icon **đám mây** ở thanh tabbar và chọn **Main app** để mở ứng dụng.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/cloud_station_drive/cloud_station_drive_06.png" width="600"/>
+
+- Synology chứa rất nhiều dữ liệu nên rất nặng, chỉ nên synchronize những folder cần thiết, và có thể synchronize nhiều folder cùng lúc.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/cloud_station_drive/cloud_station_drive_07.png" width="600"/>
+
+- Vào **Global settings** → **Advanced** chỉnh lại setting như thế này để tránh trường hợp mất file.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/cloud_station_drive/cloud_station_drive_08.png" width="600"/>
 
 # Software - Office<a name="software-office"></a>
 
@@ -983,8 +1018,8 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 **Hướng dẫn**
 -  Click vào icon **Apple** ở góc trên bên trái màn hình → **Force Quit...**
 
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/force_quit_apps/force_quit_apps_00.png" width="600"/>
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/force_quit_apps/force_quit_apps_00.png" width="300"/>
 
 - Chọn app đang bị treo → **Force Quit**.
 
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/force_quit_apps/force_quit_apps_01.png" width="600"/>
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/force_quit_apps/force_quit_apps_01.png" width="300"/>
