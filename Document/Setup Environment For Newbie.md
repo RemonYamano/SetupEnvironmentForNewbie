@@ -39,6 +39,7 @@
 * [Tips & Tricks](#tips_and_tricks)
   * [Mac](#tips_and_tricks_mac)
     * [Three Finger Drag](#three_finger_drag)
+    * [Uninstall Application](#uninstall_application)
   * [Windows](#tips_and_tricks_windows)
 * [Những người bạn nên biết](#mvp-agent)
 
@@ -907,4 +908,15 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 - **System Preferences** → **Accessibility** → **Mouse & Trackpad** → **Trackpad Options** → check **Enable dragging** → chọn **three finger drag** → **OK**.
 
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/three_finger_drag/three_finger_drag_00.png" width="600"/>
+
+### Uninstall Application<a name="uninstall_application"></a>
+
+**Hướng dẫn**
+-  Vào **Application** → Chọn ứng dụng cần xoá → **Move to Trash**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/uninstall_mac/uninstall_mac_00.png" width="600"/>
+
+- Trường hợp xoá nhầm có thể vào **Trash** → Chọn ứng dụng đã xoá → **Put Back**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/uninstall_mac/uninstall_mac_01.png" width="600"/>
 
