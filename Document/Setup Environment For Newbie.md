@@ -41,6 +41,7 @@
     * [Three Finger Drag](#three_finger_drag)
     * [Uninstall Application](#uninstall_application)
     * [Keyboard Shortcut](#keyboard_shortcut_mac)
+    * [Installation of non-Mac App Store Apps](#installation_of_non-mac_app_store_apps)
   * [Windows](#tips_and_tricks_windows)
 * [Những người bạn nên biết](#mvp-agent)
 
@@ -937,3 +938,25 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 - **Cmd** + **Control** + **Shift** + **3**: capture màn hình và lưu ở clipboard.
 - **Cmd** + **Shift** + **4**: capture một phần của màn hình và lưu ở Desktop.
 - **Cmd** + **Control** + **Shift** + **3**: capture một phần của màn hình và lưu ở clipboard.
+
+### Installation of non-Mac App Store Apps<a name="installation_of_non-mac_app_store_apps"></a>
+
+**Mục đích**
+- Cài đặt các ứng dụng không nằm trên App Store.
+
+**Setup**
+- **System Preferences** → **Security & Privacy**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/three_finger_drag/three_finger_drag_00.png" width="600"/>
+
+- Click vào **ổ khoá** (yêu cầu nhập mật khẩu).
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/three_finger_drag/three_finger_drag_01.png" width="600"/>
+
+- Chọn **Anywhere**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/three_finger_drag/three_finger_drag_02.png" width="600"/>
+
+- Click vào **ổ khoá** lần nữa để hoàn tất.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/three_finger_drag/three_finger_drag_03.png" width="600"/>
