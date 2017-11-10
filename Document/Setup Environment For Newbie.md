@@ -10,7 +10,7 @@
 * [Software - Mail](#software-mail)
   * [Thunderbird](#thunderbird)
 * [Software - Synology](#software-synology)
-  * [Synology](#synology)
+  * [Cloud Station Drive](#cloud_station_drive)
 * [Software - Office](#software-office)
   * [Standard (Word - Excel - PowerPoint - OneNote - Outlook)](#office-standard)
   * [Typora](#typora)
@@ -177,12 +177,13 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 # Software - Synology<a name="software-synology"></a>
 
-## Synology<a name="synology"></a>
+## Cloud Station Drive<a name="cloud_station_drive"></a>
 
-[![Synology](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/synology/icon_synology.png)](https://www.synology.com/en-global)
+[![Synology](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/cloud_station_drive/icon_cloud_station_drive.png)](https://www.synology.com/en-global/knowledgebase/DSM/help/CloudStationDrive/cloudstationdrive)
 
 **Mục đích**
 - Lưu trữ, quản lý tài liệu nội bộ.
+- Synchronizing folder.
 - Share file/folder.
 
 **Download**
@@ -190,7 +191,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 | Windows |                   Mac                    |
 | :-----: | :--------------------------------------: |
 |  Free   |                   Free                   |
-|         | [Mac Store](https://itunes.apple.com/vn/app/xcode/id497799835?mt=12) |
+| [Synology](http://gofile.me/3F6MJ/rH8LuEOAX)<br />Password: onetechasia | [Synology](http://gofile.me/3F6MJ/dbGgaunGs)<br />Password: onetechasia |
 
 **Setup**
 (updating)
