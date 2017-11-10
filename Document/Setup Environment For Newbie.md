@@ -452,18 +452,19 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 **Download**
 
-(updating)
-
 |                Windows                |                  Mac                  |
 | :-----------------------------------: | :-----------------------------------: |
 |                 Free                  |                 Free                  |
 | [Installer](https://store.unity.com/) | [Installer](https://store.unity.com/) |
 
 **Setup**
-(updating)
 
 **Notes**
 - Công ty có mua bản Pro, liên hệ Mr.Sơn hoặc Mr.Duy.
+
+**Mac**: set up development cho Android
+- Download [JDK8](https://store.unity.com/), JDK9 trở lên sẽ không build được.
+
 
 **Tips and tricks**
 (updating) 
@@ -996,6 +997,8 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 - **Cmd** + **Control** + **Shift** + **3**: capture màn hình và lưu ở clipboard.
 - **Cmd** + **Shift** + **4**: capture một phần của màn hình và lưu ở Desktop.
 - **Cmd** + **Control** + **Shift** + **3**: capture một phần của màn hình và lưu ở clipboard.
+- **Cmd** + **Shift** + **G**: input folder cần đi đến khi đang mở Finder.
+- **Cmd** + **Option** + **H** + **M**: Minimize tất cả cửa sổ.
 
 ### Installation of non-Mac App Store Apps<a name="installation_of_non-mac_app_store_apps"></a>
 
