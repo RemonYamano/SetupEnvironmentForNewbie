@@ -34,6 +34,7 @@
   * [iFunBox](#ifun_box)
   * [Postman](#postman)
   * [EZ CD Audio Converter](#ez_cd_audio_converter)
+  * [Audacity](#audacity)
 * [Những người bạn nên biết](#mvp-agent)
 
 # Mục đích chung<a name="muc-dich"></a>
@@ -800,7 +801,6 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 | :--------------------------------------: | :--------------------------------------: |
 |                   Free                   |                   Free                   |
 | [Installer](https://www.getpostman.com/) | [Installer](https://www.getpostman.com/) |
-(updating)
 
 ## EZ CD Audio Converter<a name="ez_cd_audio_converter"></a>
 
@@ -811,7 +811,21 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 
 **Download**
 
-|                 Windows                  |                   Mac                    |
-| :--------------------------------------: | :--------------------------------------: |
-|                   Portable                   |                   Not Available                   |
-| [Synology](http://gofile.me/3F6MJ/uwcyNUQYw)<br />Password: onetechasia) |  |
+|                 Windows                  |      Mac      |
+| :--------------------------------------: | :-----------: |
+|                 Portable                 | Not Available |
+| [Synology](http://gofile.me/3F6MJ/uwcyNUQYw)<br />Password: onetechasia) |               |
+
+## Audacity<a name="audacity"></a>
+
+[![Audacity](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/audacity/icon_audacity.png)](http://www.audacityteam.org/)
+
+**Mục đích**
+- Chỉnh sửa, cắt, ghép file audio.
+
+**Download**
+
+|                 Windows                  |      Mac      |
+| :--------------------------------------: | :-----------: |
+|                 Free                 | Not Available |
+| [Synology](http://gofile.me/3F6MJ/jeA1zA2zK)<br />Password: onetechasia) |               |
