@@ -36,6 +36,10 @@
   * [EZ CD Audio Converter](#ez_cd_audio_converter)
   * [Audacity](#audacity)
   * [Your Uninstaller](#your_uninstaller)
+* [Tips & Tricks](#tips_and_tricks)
+  * [Mac](#tips_and_tricks_mac)
+    * [Three Finger Drag](#three_finger_drag)
+  * [Windows](#tips_and_tricks_windows)
 * [Những người bạn nên biết](#mvp-agent)
 
 # Mục đích chung<a name="muc-dich"></a>
@@ -869,7 +873,7 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/your_uninstaller/your_uninstaller_04.png" width="600"/>
 
 - Nhập vào **Name** và **Registration code** → **OK**.
-**Name**:
+  **Name**:
 >sharyn kolibob
 
 **Registration code**
@@ -886,3 +890,21 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 - Nhớ chọn **Super Mode** khi tiến hành **Uninstall**.
 
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/your_uninstaller/your_uninstaller_07.png" width="600"/>
+
+
+
+# Tips & Tricks<a name="tips_and_tricks"></a>
+
+## Tips & Tricks (Mac)<a name="tips_and_tricks_mac"></a>
+
+### Three finger drag<a name="three_finger_drag"></a>
+
+**Mục đích**
+- Một trong những thao tác được sử dụng nhiều nhất trong quá trình làm việc.
+- Chức năng tương đương với việc giữ chuột kéo thả.
+
+**Setup**
+- **System Preferences** → **Accessibility** → **Mouse & Trackpad** → **Trackpad Options** → check **Enable dragging** → chọn **three finger drag** → **OK**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/three_finger_drag/three_finger_drag_00.png" width="600"/>
+
