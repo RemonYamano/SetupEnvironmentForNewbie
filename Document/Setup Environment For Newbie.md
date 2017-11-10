@@ -189,9 +189,9 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 **Download**
 
-| Windows |                   Mac                    |
-| :-----: | :--------------------------------------: |
-|  Free   |                   Free                   |
+|                 Windows                  |                   Mac                    |
+| :--------------------------------------: | :--------------------------------------: |
+|                   Free                   |                   Free                   |
 | [Synology](http://gofile.me/3F6MJ/rH8LuEOAX)<br />Password: onetechasia | [Synology](http://gofile.me/3F6MJ/dbGgaunGs)<br />Password: onetechasia |
 
 **Setup**
@@ -829,7 +829,7 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 
 |                 Windows                  |      Mac      |
 | :--------------------------------------: | :-----------: |
-|                 Free                 | Not Available |
+|                   Free                   | Not Available |
 | [Synology](http://gofile.me/3F6MJ/jeA1zA2zK)<br />Password: onetechasia) |               |
 
 ## Your Uninstaller<a name="your_uninstaller"></a>
@@ -844,11 +844,45 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 
 |                 Windows                  |      Mac      |
 | :--------------------------------------: | :-----------: |
-|                 Cracked                 | Not Available |
-| [Synology](http://gofile.me/3F6MJ/jeA1zA2zK)<br />Password: onetechasia) |               |
+|                 Cracked                  | Not Available |
+| [Synology](http://gofile.me/3F6MJ/WykA36hGs)<br />Password: onetechasia) |               |
 
 **Setup**
-(updating)
+- Chọn **Custom Setup (Advanced)** → **Next**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/your_uninstaller/your_uninstaller_00.png" width="600"/>
+
+- Bỏ chọn các mục **Babylon** → **Next**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/your_uninstaller/your_uninstaller_01.png" width="600"/>
+
+- Chọn **Cancel**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/your_uninstaller/your_uninstaller_02.png" width="600"/>
+
+- Run app để tiến hành crack.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/your_uninstaller/your_uninstaller_03.png" width="600"/>
+
+- Chọn **Enter Key**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/your_uninstaller/your_uninstaller_04.png" width="600"/>
+
+- Nhập vào **Name** và **Registration code** → **OK**.
+**Name**:
+>sharyn kolibob
+
+**Registration code**
+>000016-9P0U6X-N5BBFB-EH9ZTE-DEZ8P0-9U4R72-RGZ6PF-EMYUAZ-9J6XQQ-89BV1Z
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/your_uninstaller/your_uninstaller_05.png" width="600"/>
+
+- Hoàn tất.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/your_uninstaller/your_uninstaller_06.png" width="600"/>
 
 **Notes**
-(updating)
+
+- Nhớ chọn **Super Mode** khi tiến hành **Uninstall**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/your_uninstaller/your_uninstaller_07.png" width="600"/>
