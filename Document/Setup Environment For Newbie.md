@@ -1125,10 +1125,15 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 -  Có những folder bị ẩn mặc định trong máy nên muốn truy cập dễ dàng cần làm cho nó hiện lên.
 
 **Hướng dẫn**
--  Click vào icon **Apple** ở góc trên bên trái màn hình → **Force Quit...**
 
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/force_quit_apps/force_quit_apps_00.png" width="300"/>
+- [Mở **Terminal**](#open_terminal), gõ **defaults write com.apple.finder AppleShowAllFiles YES** và nhấn phím **Enter**.
 
-- Chọn app đang bị treo → **Force Quit**.
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/show_hidden_files/show_hidden_files_00.png" width="600"/>
 
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/force_quit_apps/force_quit_apps_01.png" width="300"/>
+- Giữ phím **Option** và chuột phải vào icon **Finder** ở dock và chọn **Relauch** để hoàn tất.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/show_hidden_files/show_hidden_files_01.png" width="300"/>
+
+- Nếu muốn ẩn các file này đi, thì [Mở **Terminal**](#open_terminal), gõ **defaults write com.apple.finder AppleShowAllFiles NO** và nhấn phím **Enter**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/show_hidden_files/show_hidden_files_02.png" width="600"/>
