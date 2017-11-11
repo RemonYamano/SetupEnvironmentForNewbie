@@ -53,6 +53,8 @@
     * [Windows Setup](#windows_setup)
     * [Fix USB showing the wrong capacity](#fix_usb_showing_the_wrong_capacity)
     * [Disable Windows Defender permanently](#disable_windows_defender_permanently)
+* [Miscellaneous](#miscellaneous)
+    * [Fonts](#fonts)
 * [Credit](#credit)
 
 # Mục đích chung<a name="muc-dich"></a>
@@ -1215,3 +1217,5 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/disable_windows_defender_permanently/disable_windows_defender_permanently_00.png" width="300"/>
 
 - **Computer Configuration** → **Administrative Templates** → **Windows Components** → **Windows Defender** → double click để mở **Turn off Windows Defender** → Chọn **Enable** → **OK** → Hoàn tất.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/disable_windows_defender_permanently/disable_windows_defender_permanently_01.png" width="600"/>
