@@ -12,6 +12,7 @@
 * [Software - Synology](#software-synology)
   * [Cloud Station Drive](#cloud_station_drive)
   * [Synology](#synology)
+  * [Connect to Server](#connect_to_server)
 * [Software - Office](#software-office)
   * [Standard (Word - Excel - PowerPoint - OneNote - Outlook)](#office-standard)
   * [Typora](#typora)
@@ -248,9 +249,11 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 [![Synology](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/synology/icon_synology.png)](https://www.synology.com/en-uk)
 
 **Mục đích**
+
 - Quản lý file trên server.
 
 **Note**
+
 - Truy cập **Synology** thông qua trình duyệt dưới url http://syn.tek1.top/
 - Yêu cầu phải có tài khoản mới có thể sử dụng. Nếu chưa có tài khoản, liên hệ Mr.Toàn để lấy thông tin đăng nhập.
 - Hướng dẫn truy cập vào **File Station**:
@@ -267,6 +270,34 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/synology/synology_02.png" width="600"/>
 
 - Chú ý là nếu muốn truy cập vào các folder private thì cần phải được cấp quyền.
+
+## Connect to Server<a name="connect_to_server"></a>
+
+**Mục đích**
+
+- Thay thế việc phải truy cập File Station trên browser.
+
+**Setup (Mac)**
+
+- **Finder** → **Go** → **Connect to Server...**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/connect_to_server/connect_to_server_00.png" width="600"/>
+
+- Nhập **afp://192.168.0.101** → **Connect**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/connect_to_server/connect_to_server_01.png" width="600/>
+
+- Nhập vào **Name/Password**. Nếu chưa có tài khoản, liên hệ Mr.Toàn để lấy thông tin đăng nhập. Tick vào **Remember this password in my keychain**. Sau đó nhấn **Connect**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/connect_to_server/connect_to_server_02.png" width="600"/>
+
+- Chọn folder muốn connect → **OK**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/connect_to_server/connect_to_server_03.png" width="600/>
+
+- Folder đã connect sẽ nằm ở **Shared**. Những lần truy cập sau chỉ cần vào đây là được.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/connect_to_server/connect_to_server_04.png" width="600/>
 
 # Software - Office<a name="software-office"></a>
 
@@ -1008,7 +1039,7 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 **Setup**
 - **System Preferences** → **Security & Privacy**.
 
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/three_finger_drag/three_finger_drag_00.png" width="600"/>
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/installation_of_non-mac_app_store_apps/installation_of_non-mac_app_store_apps_00.png" width="600"/>
 
 - Click vào **ổ khoá** (yêu cầu nhập mật khẩu).
 
