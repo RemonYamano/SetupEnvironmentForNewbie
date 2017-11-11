@@ -40,11 +40,13 @@
   * [Your Uninstaller](#your_uninstaller)
 * [Tips & Tricks](#tips_and_tricks)
   * [Mac](#tips_and_tricks_mac)
+    * [Open Terminal](#open_terminal)
     * [Three Finger Drag](#three_finger_drag)
     * [Uninstall Application](#uninstall_application)
     * [Keyboard Shortcut](#keyboard_shortcut_mac)
     * [Installation of non-Mac App Store Apps](#installation_of_non-mac_app_store_apps)
     * [Force Quit Apps](#force_quit_apps)
+    * [Show hidden files](#show_hidden_files)
   * [Windows](#tips_and_tricks_windows)
 * [Những người bạn nên biết](#mvp-agent)
 
@@ -512,9 +514,9 @@ Download các file sau:
 - Cài đặt **JDK8** từ file **jdk-8u151-macosx-x64**. Chú ý là JDK9 trở lên sẽ không build được.
 - Vào **Unity** → **Preferences...** → **External Tools** chỉnh lại path của **Android SDK và JDK**.
 
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/unity/unity_01.png" width="600"/>
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/unity/unity_01.png" width="300"/>
 
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/unity/unity_02.png" width="600"/>
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/unity/unity_02.png" width="300"/>
 
 - SDK path: **${HOME}/Library/Android/sdk**
 - JDK path: **/Library/Java/JavaVirtualMachines/jdk1.8.0\_151.jdk/Contents/Home**
@@ -1016,6 +1018,20 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 
 ## Tips & Tricks (Mac)<a name="tips_and_tricks_mac"></a>
 
+### Open Terminal<a name="open_terminal"></a>
+
+**Mục đích**
+- Terminal là một ứng dụng phổ biến dùng để gõ các command để chạy ứng dụng, cài đặt, thiết lập hệ thống.
+
+**Hướng dẫn**
+- Cách 1: **Cmd** + **Space** để hiện **Spotlight Search**, gõ **Terminal** → **Enter**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/terminal/terminal_00.png" width="600"/>
+
+- Cách 2: **Application** → **Utilities** → **Terminal**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/terminal/terminal_01.png" width="600"/>
+
 ### Three finger drag<a name="three_finger_drag"></a>
 
 **Mục đích**
@@ -1056,6 +1072,7 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 - **Cmd** + **Control** + **Shift** + **3**: capture một phần của màn hình và lưu ở clipboard.
 - **Cmd** + **Shift** + **G**: input folder cần đi đến khi đang mở Finder.
 - **Cmd** + **Option** + **H** + **M**: Minimize tất cả cửa sổ.
+- **Cmd** + **Arrow Down**: Mở file đang chọn.
 
 ### Installation of non-Mac App Store Apps<a name="installation_of_non-mac_app_store_apps"></a>
 
@@ -1082,13 +1099,9 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 **Note**
 
 - Từ phiên bản macOS Sierra, khi vào **System Preferences** → **Security & Privacy** sẽ không thấy lựa chọn **Anywhere** nữa. Ta làm như sau:
-- Mở **Terminal**
+- [Mở **Terminal**](#open_terminal), gõ **sudo spctl --master-disable** và nhấn phím **Enter**.
 
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/installation_of_non-mac_app_store_apps/installation_of_non-mac_app_store_apps_04.png" width="600"/>
-
-- Gõ **sudo spctl --master-disable** và nhấn phím **Enter**.
-
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/installation_of_non-mac_app_store_apps/installation_of_non-mac_app_store_apps_05.png" width="600"/>
 
 - Relaunch **System Preferences** → **Security & Privacy** lại và lựa chọn **Anywhere** sẽ hiện lên.
 
@@ -1096,6 +1109,20 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 
 **Mục đích**
 -  Trong quá trình sử dụng, sẽ có những lúc apps bị treo đến mức không thể Force Quit theo cách thông thường hay Shutdown máy. Những lúc này cần sử dụng tính năng **Force Quit** của macOS.
+
+**Hướng dẫn**
+-  Click vào icon **Apple** ở góc trên bên trái màn hình → **Force Quit...**
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/force_quit_apps/force_quit_apps_00.png" width="300"/>
+
+- Chọn app đang bị treo → **Force Quit**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/force_quit_apps/force_quit_apps_01.png" width="300"/>
+
+### Show hidden files<a name="show_hidden_files"></a>
+
+**Mục đích**
+-  Có những folder bị ẩn mặc định trong máy nên muốn truy cập dễ dàng cần làm cho nó hiện lên.
 
 **Hướng dẫn**
 -  Click vào icon **Apple** ở góc trên bên trái màn hình → **Force Quit...**
