@@ -276,6 +276,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 **Mục đích**
 
 - Thay thế việc phải truy cập File Station trên browser.
+- Lứu ý là không thể share file/folder từ đây.
 
 **Setup (Mac)**
 
@@ -285,7 +286,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 - Nhập **afp://192.168.0.101** → **Connect**.
 
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/connect_to_server/connect_to_server_01.png" width="600/>
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/connect_to_server/connect_to_server_01.png" width="600"/>
 
 - Nhập vào **Name/Password**. Nếu chưa có tài khoản, liên hệ Mr.Toàn để lấy thông tin đăng nhập. Tick vào **Remember this password in my keychain**. Sau đó nhấn **Connect**.
 
@@ -293,11 +294,11 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 - Chọn folder muốn connect → **OK**.
 
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/connect_to_server/connect_to_server_03.png" width="600/>
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/connect_to_server/connect_to_server_03.png" width="600"/>
 
-- Folder đã connect sẽ nằm ở **Shared**. Những lần truy cập sau chỉ cần vào đây là được.
+- Folder đã connect sẽ nằm ở **Shared**. Những lần truy cập sau chỉ cần vào đây nhập lại tài khoản là được.
 
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/connect_to_server/connect_to_server_04.png" width="600/>
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/connect_to_server/connect_to_server_04.png" width="300"/>
 
 # Software - Office<a name="software-office"></a>
 
@@ -491,14 +492,39 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 **Setup**
 
 **Notes**
+
 - Công ty có mua bản Pro, liên hệ Mr.Sơn hoặc Mr.Duy.
 
-**Mac**: set up development cho Android
-- Download [JDK8](https://store.unity.com/), JDK9 trở lên sẽ không build được.
+**Mac**: Fix lỗi không build project Android được.
 
+Download các file sau:
 
-**Tips and tricks**
-(updating) 
+>
+>[Synology](http://gofile.me/3F6MJ/b5SULhJ40)
+>Password: onetechasia
+>
+
+- Cài đặt [Android Studio](#android-studio).
+- Giải nén file **tools_r25.2.5-windows** sẽ được folder **tools**. Vào folder **${HOME}/Library/Android/sdk/** đổi tên thư mục **tools** có sẵn thành **tools - default** và copy folder **tools** đã giải nén vào.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/unity/unity_00.png" width="600"/>
+
+- Cài đặt **JDK8** từ file **jdk-8u151-macosx-x64**. Chú ý là JDK9 trở lên sẽ không build được.
+- Vào **Unity** → **Preferences...** → **External Tools** chỉnh lại path của **Android SDK và JDK**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/unity/unity_01.png" width="600"/>
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/unity/unity_02.png" width="600"/>
+
+- SDK path: **${HOME}/Library/Android/sdk**
+- JDK path: **/Library/Java/JavaVirtualMachines/jdk1.8.0\_151.jdk/Contents/Home**
+- Để tìm JDK path trong máy có thể dùng command **/usr/libexec/java_home -v 1.8** trên **Terminal**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/unity/unity_03.png" width="600"/>
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/unity/unity_04.png" width="600"/>
+
+- Lúc này đã có thể build project Android thành công.
 
 ## MonoDevelop<a name="mono-develop"></a>
 
