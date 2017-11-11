@@ -352,6 +352,8 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/office_standard/office_02.png">
 
+- Nếu crack thất bại, xem [Disable Windows Defender permanently](#disable_windows_defender_permanently)
+
 **Notes**
 
 - **OneNote** rất phù hợp để lưu trữ note vì dễ sử dụng và synchronization.
@@ -372,7 +374,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 
 **Tips and tricks**
 
-- Sử dụng phím tắt ***Cmd + /*** để chuyển đổi nhanh giữa **Source Code Mode** và **Normal Mode**.
+- Sử dụng phím tắt **Cmd + /** để chuyển đổi nhanh giữa **Source Code Mode** và **Normal Mode**.
 - Markdown syntax: https://learn.getgrav.org/content/markdown
 
 ## Sublime Text<a name="sublime_text"></a>
@@ -1209,4 +1211,7 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 
 - **Windows** + **R** → mở cửa sổ **Run**.
 - Gõ **gpedit.msc** để mở **Local Group Policy Editor**.
-- 
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/disable_windows_defender_permanently/disable_windows_defender_permanently_00.png" width="300"/>
+
+- **Computer Configuration** → **Administrative Templates** → **Windows Components** → **Windows Defender** → double click để mở **Turn off Windows Defender** → Chọn **Enable** → **OK** → Hoàn tất.
