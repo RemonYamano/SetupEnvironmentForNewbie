@@ -52,6 +52,7 @@
     * [Open Command Prompt](#open_command_prompt)
     * [Windows Setup](#windows_setup)
     * [Fix USB showing the wrong capacity](#fix_usb_showing_the_wrong_capacity)
+    * [Disable Windows Defender permanently](#disable_windows_defender_permanently)
 * [Credit](#credit)
 
 # Mục đích chung<a name="muc-dich"></a>
@@ -1166,7 +1167,7 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 
 - **Start** + gõ **Command Prompt** → **Enter**.
 
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/command_prompt/command_prompt_00.png" width="600"/>
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/command_prompt/command_prompt_00.png" width="300"/>
 
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/command_prompt/command_prompt_01.png" width="600"/>
 
@@ -1178,9 +1179,9 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 
 **Download**
 
-|                 Windows                |
+|                 Windows                  |
 | :--------------------------------------: |
-|                 Key |
+|                   Key                    |
 | [Windows 10 Education](http://gofile.me/3F6MJ/4OcaTw0l0)<br />Password: onetechasia) |
 
 ### Fix USB showing the wrong capacity<a name="fix_usb_showing_the_wrong_capacity"></a>
@@ -1197,3 +1198,15 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 - **format fs=NTFS**
 - **exit**
 - Hoàn tất.
+
+### Disable Windows Defender permanently<a name="disable_windows_defender_permanently"></a>
+
+**Mục đích**
+
+- Windows Defender gần như không giúp được gì trong việc bảo vệ máy tính mà còn ngăn cản việc cài một số phần mềm crack nên cần tắt hẳn đi.
+
+**Hướng dẫn**
+
+- **Windows** + **R** → mở cửa sổ **Run**.
+- Gõ **gpedit.msc** để mở **Local Group Policy Editor**.
+- 
