@@ -38,6 +38,7 @@
   * [EZ CD Audio Converter](#ez_cd_audio_converter)
   * [Audacity](#audacity)
   * [Your Uninstaller](#your_uninstaller)
+  * [VMWARE](#vmware)
 * [Tips & Tricks](#tips_and_tricks)
   * [Mac](#tips_and_tricks_mac)
     * [Open Terminal](#open_terminal)
@@ -48,7 +49,10 @@
     * [Force Quit Apps](#force_quit_apps)
     * [Show hidden files](#show_hidden_files)
   * [Windows](#tips_and_tricks_windows)
-* [Những người bạn nên biết](#mvp-agent)
+    * [Open Command Prompt](#open_command_prompt)
+    * [Windows Setup](#windows_setup)
+    * [Fix USB showing the wrong capacity](#fix_usb_showing_the_wrong_capacity)
+* [Credit](#credit)
 
 # Mục đích chung<a name="muc-dich"></a>
 
@@ -1012,7 +1016,19 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/your_uninstaller/your_uninstaller_07.png" width="600"/>
 
+## VMWARE<a name="vmware"></a>
 
+[![VMWARE](https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/vmware/icon_vmware.png)](http://www.ursoftware.com/)
+
+**Mục đích**
+- Cài đặt máy ảo trên Windows.
+
+**Download**
+
+|                 Windows                  |      Mac      |
+| :--------------------------------------: | :-----------: |
+|                 Cracked                  | Not Available |
+| [Synology](http://gofile.me/3F6MJ/wx9nDUlxZ)<br />Password: onetechasia) |               |
 
 # Tips & Tricks<a name="tips_and_tricks"></a>
 
@@ -1137,3 +1153,47 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 - Nếu muốn ẩn các file này đi, thì [Mở **Terminal**](#open_terminal), gõ **defaults write com.apple.finder AppleShowAllFiles NO** và nhấn phím **Enter**.
 
 <img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/show_hidden_files/show_hidden_files_02.png" width="600"/>
+
+## Tips & Tricks (Windows)<a name="tips_and_tricks_windows"></a>
+
+### Open Command Prompt<a name="open_command_prompt"></a>
+
+**Mục đích**
+
+- Command Prompt là một ứng dụng phổ biến dùng để gõ các command để chạy ứng dụng, cài đặt, thiết lập hệ thống.
+
+**Hướng dẫn**
+
+- **Start** + gõ **Command Prompt** → **Enter**.
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/command_prompt/command_prompt_00.png" width="600"/>
+
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/tips_and_trick/command_prompt/command_prompt_01.png" width="600"/>
+
+### Windows Setup<a name="windows_setup"></a>
+
+**Mục đích**
+
+- Cài đặt hệ điều hành cho PC.
+
+**Download**
+
+|                 Windows                |
+| :--------------------------------------: |
+|                 Key |
+| [Windows 10 Education](http://gofile.me/3F6MJ/4OcaTw0l0)<br />Password: onetechasia) |
+
+### Fix USB showing the wrong capacity<a name="fix_usb_showing_the_wrong_capacity"></a>
+
+**Mục đích**
+
+- Trong quá trình sử dụng sẽ có những lúc USB bị hư và hiển thị sai dung lượng và đây là cách sửa.
+
+**Hướng dẫn**
+
+- [Mở **Command Prompt**](#open_command_prompt) và gõ **diskpart** để hiện chương trình **diskpart.exe**. Từ cửa sổ này gõ tiếp **list disk** để xuất hiện danh sách các ổ đĩa đang kết nối với máy tính. Gõ tiếp **select disk X** (với **X** là số thứ tự của ổ đĩa muốn chọn, ở đây là ổ USB cần sửa). Gõ tiếp lần lượt theo thứ tự:
+- **clean**
+- **create partition primary**
+- **format fs=NTFS**
+- **exit**
+- Hoàn tất.
