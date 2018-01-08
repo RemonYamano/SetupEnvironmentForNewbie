@@ -208,7 +208,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 |                 Windows                  |                   Mac                    |
 | :--------------------------------------: | :--------------------------------------: |
 |                   Free                   |                   Free                   |
-| [Synology](http://gofile.me/3F6MJ/rH8LuEOAX)<br />Password: onetechasia | [Synology](http://gofile.me/3F6MJ/dbGgaunGs)<br />Password: onetechasia |
+| [Synology](http://syn.tek1.top/sharing/MI85iEfCM)<br />Password: onetechasia | [Synology](http://syn.tek1.top/sharing/sxHZjj15m)<br />Password: onetechasia |
 
 **Setup**
 
@@ -323,7 +323,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
 |                   2010                   |                   2016                   |               Google Play                |                App Store                 |
 |                 Cracked                  |                 Cracked                  |                   Free                   |                   Free                   |
-| [Synology](http://gofile.me/3F6MJ/8l6EtJwsp)<br />Password: onetechasia | [Synology](http://gofile.me/3F6MJ/NtOJyKF9i)<br />Password: onetechasia | [Word](https://play.google.com/store/apps/details?id=com.microsoft.office.word&hl=en) | [Word](https://itunes.apple.com/us/app/microsoft-word/id586447913?mt=8) |
+| [Synology](http://syn.tek1.top/sharing/dXcnZXZiz)<br />Password: onetechasia | [Synology](http://syn.tek1.top/sharing/v30EN9sxc)<br />Password: onetechasia | [Word](https://play.google.com/store/apps/details?id=com.microsoft.office.word&hl=en) | [Word](https://itunes.apple.com/us/app/microsoft-word/id586447913?mt=8) |
 |                                          |                                          | [Excel](https://play.google.com/store/apps/details?id=com.microsoft.office.excel&hl=en) | [Excel](https://itunes.apple.com/us/app/microsoft-excel/id586683407?mt=8) |
 |                                          |                                          | [PowerPoint](https://play.google.com/store/apps/details?id=com.microsoft.office.powerpoint&hl=en) | [PowerPoint](https://itunes.apple.com/us/app/microsoft-powerpoint/id586449534?mt=8) |
 |                                          |                                          | [OneNote](https://play.google.com/store/apps/details?id=com.microsoft.office.onenote&hl=en) | [OneNote](https://itunes.apple.com/us/app/microsoft-onenote/id410395246?mt=8) |
@@ -508,7 +508,7 @@ Hướng dẫn người mới cài đặt các tool cần thiết cho công vi�
 Download các file sau:
 
 >
->[Synology](http://gofile.me/3F6MJ/b5SULhJ40)
+>[Synology](http://syn.tek1.top/sharing/1GpphGofJ)
 >Password: onetechasia
 >
 
@@ -577,7 +577,7 @@ Download các file sau:
 | :--------------------------------------: | :--------------------------------------: |
 |               CS6 Extended               |                    CC                    |
 |                 Cracked                  |                 Cracked                  |
-| [Synology](http://gofile.me/3F6MJ/EIuub8PGO)<br />Password: onetechasia | [Creative Cloud](http://www.adobe.com/sea/creativecloud/desktop-app.html)<br />[Cracked](http://gofile.me/3F6MJ/xxEbpiPZv)<br />Password: onetechasia |
+| [Synology](http://syn.tek1.top/sharing/iNauXrDsO)<br />Password: onetechasia | [Creative Cloud](http://www.adobe.com/sea/creativecloud/desktop-app.html)<br />[Cracked](http://syn.tek1.top/sharing/jRgFZaarm)<br />Password: onetechasia |
 
 **Setup (Mac)**
 
@@ -720,7 +720,7 @@ Download các file sau:
 | :--------------------------------------: | :--------------------------------------: |
 |                   CS6                    |                    CC                    |
 |                 Cracked                  |                 Cracked                  |
-| [Synology](http://gofile.me/3F6MJ/rZNzHBl09)<br />Password: onetechasia | [Creative Cloud](http://www.adobe.com/sea/creativecloud/desktop-app.html)<br />[Cracked](http://gofile.me/3F6MJ/inSPJyIud)<br />Password: onetechasia |
+| [Synology](http://syn.tek1.top/sharing/HUSA3mxla)<br />Password: onetechasia | [Creative Cloud](http://www.adobe.com/sea/creativecloud/desktop-app.html)<br />[Cracked](http://syn.tek1.top/sharing/NnnEdZ6Q7)<br />Password: onetechasia |
 
 **Setup (Mac)**
 
@@ -792,7 +792,7 @@ Download các file sau:
 |   Windows   |                   Mac                    |
 | :---------: | :--------------------------------------: |
 | Unsupported |                 Cracked                  |
-|             | [Synology](http://gofile.me/3F6MJ/AZeYU79Df)<br />Password: onetechasia |
+|             | [Synology](http://syn.tek1.top/sharing/uqvhTyllT)<br />Password: onetechasia |
 
 **Setup**
 (updating)
@@ -841,7 +841,7 @@ Download các file sau:
 |                 Windows                  |                   Mac                    |
 | :--------------------------------------: | :--------------------------------------: |
 |                 Cracked                  |                 Cracked                  |
-| [Synology](http://gofile.me/3F6MJ/TBIor46vU)<br />Password: onetechasia) | [Synology](http://gofile.me/3F6MJ/qKfpgHS1x)<br />Password: onetechasia |
+| [Synology](http://syn.tek1.top/sharing/1LYvQ8lCx)<br />Password: onetechasia | [Synology](http://syn.tek1.top/sharing/MjfSZzBJ1)<br />Password: onetechasia |
 
 **Setup (Mac)**
 
@@ -951,7 +951,7 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 |                 Windows                  |      Mac      |
 | :--------------------------------------: | :-----------: |
 |                 Portable                 | Not Available |
-| [Synology](http://gofile.me/3F6MJ/uwcyNUQYw)<br />Password: onetechasia) |               |
+| [Synology](http://syn.tek1.top/sharing/ZDhUWPKcw)<br />Password: onetechasia |               |
 
 ## Audacity<a name="audacity"></a>
 
@@ -965,7 +965,7 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 |                 Windows                  |      Mac      |
 | :--------------------------------------: | :-----------: |
 |                   Free                   | Not Available |
-| [Synology](http://gofile.me/3F6MJ/jeA1zA2zK)<br />Password: onetechasia) |               |
+| [Synology](http://syn.tek1.top/sharing/9MsS70NHT)<br />Password: onetechasia |               |
 
 ## Your Uninstaller<a name="your_uninstaller"></a>
 
@@ -980,7 +980,7 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 |                 Windows                  |      Mac      |
 | :--------------------------------------: | :-----------: |
 |                 Cracked                  | Not Available |
-| [Synology](http://gofile.me/3F6MJ/WykA36hGs)<br />Password: onetechasia) |               |
+| [Synology](http://syn.tek1.top/sharing/EH4KQCju9)<br />Password: onetechasia |               |
 
 **Setup**
 - Chọn **Custom Setup (Advanced)** → **Next**.
@@ -1034,7 +1034,7 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 |                 Windows                  |      Mac      |
 | :--------------------------------------: | :-----------: |
 |                 Cracked                  | Not Available |
-| [Synology](http://gofile.me/3F6MJ/wx9nDUlxZ)<br />Password: onetechasia) |               |
+| [Synology](http://syn.tek1.top/sharing/782bAH6l2)<br />Password: onetechasia |               |
 
 # Tips & Tricks<a name="tips_and_tricks"></a>
 
@@ -1187,7 +1187,7 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 |                 Windows                  |
 | :--------------------------------------: |
 |                   Key                    |
-| [Windows 10 Education](http://gofile.me/3F6MJ/4OcaTw0l0)<br />Password: onetechasia) |
+| [Windows 10 Education](http://syn.tek1.top/sharing/VAaTno3mj)<br />Password: onetechasia |
 
 ### Fix USB showing the wrong capacity<a name="fix_usb_showing_the_wrong_capacity"></a>
 
@@ -1225,4 +1225,4 @@ Hướng dẫn cài đặt để sử dụng Beyond Compare để thay thế mer
 
 ### HuyTN<a name="HuyTN"></a>
 
-<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/credit/huytn.jpg" width="600"/>
+<img src="https://raw.githubusercontent.com/RemonYamano/SetupEnvironmentForNewbie/master/Pictures/credit/huytn.jpg" width="300"/>
